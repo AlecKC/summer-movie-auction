@@ -1,0 +1,25 @@
+name: Update movie revenues
+
+on:
+  schedule:
+    - cron: "20 13 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm run update:revenues
+      - run: npm run validate:data
+      - name: Commit updated revenues
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update movie revenues"
+          file_pattern: data/movies.json data/history.json

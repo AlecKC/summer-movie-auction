@@ -1,0 +1,11 @@
+{
+  "name": "movie-auction-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "update:revenues": "node scripts/update-revenues.mjs",
+    "validate:data": "node scripts/validate-data.mjs"
+  }
+}

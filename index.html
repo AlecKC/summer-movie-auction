@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Track a summer movie auction leaderboard with daily domestic box office totals.">
+    <title>Summer Movie Auction Results</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+
+    <main>
+      <section class="intro">
+        <h1>summer movie auction results</h1>
+        <time id="last-updated" datetime="">Last updated at</time>
+        <p>
+          <span>Put your box office prediction skills to the test with your Fan Summer Movie Auction. Bid on summer films, track the results, and see who drafted the winning slate.</span>
+          <span>Your picks and league data live in this site, so you can follow along all season. Watch as your chosen movies climb or crash at the domestic box office.</span>
+          <span>Interactive charts, daily updates, and bragging rights included.</span>
+        </p>
+      </section>
+
+      <nav class="view-tabs" aria-label="Tracker views">
+        <button class="tab is-active" type="button" data-view="leaderboard">Leaderboard</button>
+        <button class="tab" type="button" data-view="graph">Graph</button>
+        <button class="tab" type="button" data-view="draft">Your Draft</button>
+      </nav>
+
+      <section id="leaderboard-view" class="view-panel is-active">
+        <div id="leaderboard-list" class="leaderboard"></div>
+        <div id="compare-dock" class="compare-dock" hidden></div>
+      </section>
+
+      <section id="graph-view" class="view-panel">
+        <div class="graph-controls">
+          <label>
+            Player
+            <select id="graph-player"></select>
+          </label>
+          <label>
+            Period
+            <select id="graph-period">
+              <option value="day">Daily</option>
+              <option value="week">Weekly</option>
+              <option value="month">Monthly</option>
+            </select>
+          </label>
+          <label class="checkbox-label">
+            <input id="graph-cumulative" type="checkbox" checked>
+            Cumulative
+          </label>
+        </div>
+        <div id="line-chart" class="chart-panel" aria-label="Revenue line chart"></div>
+        <div id="chart-legend" class="chart-legend" aria-label="Chart legend"></div>
+        <div id="stacked-chart" class="chart-panel" aria-label="Movie contribution stacked bar chart"></div>
+      </section>
+
+      <section id="draft-view" class="view-panel">
+        <p class="draft-copy">Your movie data is loaded from <code>data/movies.json</code>. The daily updater writes historical snapshots to <code>data/history.json</code>.</p>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th scope="col">Movie</th>
+                <th scope="col">Owner</th>
+                <th scope="col">Release</th>
+                <th scope="col">Gross</th>
+                <th scope="col">Daily</th>
+              </tr>
+            </thead>
+            <tbody id="movie-table"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="src/app.js"></script>
+  </body>
+</html>

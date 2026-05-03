@@ -1,0 +1,396 @@
+{
+  "lastUpdated": "2026-05-03T08:20:04.025Z",
+  "movies": [
+    {
+      "id": "the-devil-wears-prada-2",
+      "title": "The Devil Wears Prada 2",
+      "owner": "Daniel",
+      "releaseDate": "2026-05-01",
+      "domesticgross": 32500000,
+      "point_cost": 30,
+      "dailychange": 32500000,
+      "revenueurl": "https://www.the-numbers.com/movie/Devil-Wears-Prada-2-The-(2026)",
+      "source": "the-numbers.com",
+      "history": {
+        "2026-05-03": 32500000
+      }
+    },
+    {
+      "id": "animal-farm",
+      "title": "Animal Farm",
+      "owner": "Jordan",
+      "releaseDate": "2026-05-01",
+      "domesticgross": 1145988,
+      "point_cost": 5,
+      "dailychange": 1145988,
+      "revenueurl": "https://www.the-numbers.com/movie/Animal-Farm-(2026)",
+      "source": "the-numbers.com",
+      "history": {
+        "2026-05-03": 1145988
+      }
+    },
+    {
+      "id": "mortal-kombat-ii",
+      "title": "Mortal Kombat II",
+      "owner": "Cole",
+      "releaseDate": "2026-05-08",
+      "domesticgross": 0,
+      "point_cost": 8,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Mortal-Kombat-II-(2026)",
+      "source": ""
+    },
+    {
+      "id": "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d",
+      "title": "Billie Eilish: Hit Me Hard and Soft: The Tour (Live in 3D)",
+      "owner": "Brett",
+      "releaseDate": "2026-05-06",
+      "domesticgross": 0,
+      "point_cost": 11,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Billie-Eilish-Hit-Me-Hard-and-Soft-The-Tour-(2026)",
+      "source": ""
+    },
+    {
+      "id": "the-sheep-detectives",
+      "title": "The Sheep Detectives",
+      "owner": "Daniel",
+      "releaseDate": "2026-05-08",
+      "domesticgross": 0,
+      "point_cost": 10,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Sheep-Detectives-The-(2026)",
+      "source": ""
+    },
+    {
+      "id": "obsession",
+      "title": "Obsession",
+      "owner": "Alex",
+      "releaseDate": "2026-05-15",
+      "domesticgross": 0,
+      "point_cost": 7,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Obsession-(2026)",
+      "source": ""
+    },
+    {
+      "id": "in-the-grey",
+      "title": "In the Grey",
+      "owner": "John",
+      "releaseDate": "2026-05-15",
+      "domesticgross": 0,
+      "point_cost": 9,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/In-the-Grey-(2026)",
+      "source": ""
+    },
+    {
+      "id": "star-wars-the-mandalorian-grogu",
+      "title": "Star Wars: The Mandalorian & Grogu",
+      "owner": "Alex",
+      "releaseDate": "2026-05-22",
+      "domesticgross": 0,
+      "point_cost": 35,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Mandalorian-and-Grogu-The-(2026)",
+      "source": ""
+    },
+    {
+      "id": "passenger",
+      "title": "Passenger",
+      "owner": "Alec",
+      "releaseDate": "2026-05-22",
+      "domesticgross": 0,
+      "point_cost": 6,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Passenger-(2026)",
+      "source": ""
+    },
+    {
+      "id": "i-love-boosters",
+      "title": "I Love Boosters",
+      "owner": "John",
+      "releaseDate": "2026-05-22",
+      "domesticgross": 0,
+      "point_cost": 8,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/I-Love-Boosters-(2026)",
+      "source": ""
+    },
+    {
+      "id": "finding-emily",
+      "title": "Finding Emily",
+      "owner": "Brett",
+      "releaseDate": "2026-05-22",
+      "domesticgross": 0,
+      "point_cost": 4,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Finding-Emily-(2026-United-Kingdom)",
+      "source": ""
+    },
+    {
+      "id": "the-backrooms",
+      "title": "The Backrooms",
+      "owner": "Alex",
+      "releaseDate": "2026-05-29",
+      "domesticgross": 0,
+      "point_cost": 14,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Backrooms-(2026)",
+      "source": ""
+    },
+    {
+      "id": "pressure",
+      "title": "Pressure",
+      "owner": "Jordan",
+      "releaseDate": "2026-05-29",
+      "domesticgross": 0,
+      "point_cost": 5,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Pressure-(2026-United-Kingdom)",
+      "source": ""
+    },
+    {
+      "id": "disclosure-day",
+      "title": "Disclosure Day",
+      "owner": "Jordan",
+      "releaseDate": "2026-06-12",
+      "domesticgross": 0,
+      "point_cost": 43,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Disclosure-Day-(2026)",
+      "source": ""
+    },
+    {
+      "id": "power-ballad",
+      "title": "Power Ballad",
+      "owner": "Alec",
+      "releaseDate": "2026-06-05",
+      "domesticgross": 0,
+      "point_cost": 7,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Power-Ballad-(2026)",
+      "source": ""
+    },
+    {
+      "id": "masters-of-the-universe",
+      "title": "Masters of the Universe",
+      "owner": "Daniel",
+      "releaseDate": "2026-06-05",
+      "domesticgross": 0,
+      "point_cost": 9,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Masters-of-the-Universe-(2026)",
+      "source": ""
+    },
+    {
+      "id": "scary-movie-6",
+      "title": "Scary Movie 6",
+      "owner": "Brett",
+      "releaseDate": "2026-06-05",
+      "domesticgross": 0,
+      "point_cost": 8,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Scary-Movie-6-(2026)",
+      "source": ""
+    },
+    {
+      "id": "toy-story-5",
+      "title": "Toy Story 5",
+      "owner": "Daniel",
+      "releaseDate": "2026-06-19",
+      "domesticgross": 0,
+      "point_cost": 37,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Toy-Story-5-(2026)",
+      "source": ""
+    },
+    {
+      "id": "girls-like-girls",
+      "title": "Girls Like Girls",
+      "owner": "Alec",
+      "releaseDate": "2026-06-19",
+      "domesticgross": 0,
+      "point_cost": 5,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Girls-Like-Girls-(2026)",
+      "source": ""
+    },
+    {
+      "id": "the-death-of-robin-hood",
+      "title": "The Death of Robin Hood",
+      "owner": "Brett",
+      "releaseDate": "2026-06-19",
+      "domesticgross": 0,
+      "point_cost": 15,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Death-of-Robin-Hood-The-(2026)",
+      "source": ""
+    },
+    {
+      "id": "supergirl-woman-of-tomorrow",
+      "title": "Supergirl: Woman of Tomorrow",
+      "owner": "Alec",
+      "releaseDate": "2026-06-26",
+      "domesticgross": 0,
+      "point_cost": 17,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Supergirl-(2026)",
+      "source": ""
+    },
+    {
+      "id": "jackass-5-best-and-last",
+      "title": "Jackass 5: Best and Last",
+      "owner": "Cole",
+      "releaseDate": "2026-06-26",
+      "domesticgross": 0,
+      "point_cost": 6,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Jackass-Best-and-Last-(2026)",
+      "source": ""
+    },
+    {
+      "id": "i-want-your-sex",
+      "title": "I Want Your Sex",
+      "owner": "Brett",
+      "releaseDate": "2026-06-01",
+      "domesticgross": 0,
+      "point_cost": 4,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/I-Want-Your-Sex-(2026)",
+      "source": ""
+    },
+    {
+      "id": "minions-monsters",
+      "title": "Minions & Monsters",
+      "owner": "John",
+      "releaseDate": "2026-07-01",
+      "domesticgross": 0,
+      "point_cost": 24,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Minions-and-Monsters-(2026)",
+      "source": ""
+    },
+    {
+      "id": "young-washington",
+      "title": "Young Washington",
+      "owner": "Cole",
+      "releaseDate": "2026-07-04",
+      "domesticgross": 0,
+      "point_cost": 15,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Young-Washington-(2026)",
+      "source": ""
+    },
+    {
+      "id": "evil-dead-burn",
+      "title": "Evil Dead Burn",
+      "owner": "Daniel",
+      "releaseDate": "2026-07-08",
+      "domesticgross": 0,
+      "point_cost": 8,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Evil-Dead-Burn-(2026)",
+      "source": ""
+    },
+    {
+      "id": "moana-live-action",
+      "title": "Moana (Live-Action)",
+      "owner": "Cole",
+      "releaseDate": "2026-07-10",
+      "domesticgross": 0,
+      "point_cost": 35,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Moana-(2026)",
+      "source": ""
+    },
+    {
+      "id": "the-odyssey",
+      "title": "The Odyssey",
+      "owner": "Brett",
+      "releaseDate": "2026-07-17",
+      "domesticgross": 0,
+      "point_cost": 49,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Odyssey-The-(2026)",
+      "source": ""
+    },
+    {
+      "id": "spider-man-brand-new-day",
+      "title": "Spider-Man: Brand New Day",
+      "owner": "Alec",
+      "releaseDate": "2026-07-31",
+      "domesticgross": 0,
+      "point_cost": 48,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Spider-Man-Brand-New-Day-(2026)",
+      "source": ""
+    },
+    {
+      "id": "teenage-sex-and-death-at-camp-miasma",
+      "title": "Teenage Sex and Death at Camp Miasma",
+      "owner": "Alex",
+      "releaseDate": "2026-08-07",
+      "domesticgross": 0,
+      "point_cost": 7,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Teenage-Sex-and-Death-at-Camp-Miasma-(2026)",
+      "source": ""
+    },
+    {
+      "id": "one-night-only",
+      "title": "One Night Only",
+      "owner": "Alex",
+      "releaseDate": "2026-08-07",
+      "domesticgross": 0,
+      "point_cost": 18,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/One-Night-Only-(2026)",
+      "source": ""
+    },
+    {
+      "id": "super-troopers-3",
+      "title": "Super Troopers 3",
+      "owner": "Jordan",
+      "releaseDate": "2026-08-07",
+      "domesticgross": 0,
+      "point_cost": 23,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Super-Troopers-3-(2026)",
+      "source": ""
+    },
+    {
+      "id": "paw-patrol-the-dino-movie",
+      "title": "PAW Patrol: The Dino Movie",
+      "owner": "John",
+      "releaseDate": "2026-08-14",
+      "domesticgross": 0,
+      "point_cost": 26,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Paw-Patrol-The-Dino-Movie-(2026)",
+      "source": ""
+    },
+    {
+      "id": "cliffhanger",
+      "title": "Cliffhanger",
+      "owner": "John",
+      "releaseDate": "2026-08-28",
+      "domesticgross": 0,
+      "point_cost": 25,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Cliffhanger-(2026)",
+      "source": ""
+    },
+    {
+      "id": "the-furious",
+      "title": "The Furious",
+      "owner": "Cole",
+      "releaseDate": "2026-07-01",
+      "domesticgross": 0,
+      "point_cost": 36,
+      "dailychange": 0,
+      "revenueurl": "https://www.the-numbers.com/movie/Furious-The-(2026-Hong-Kong)",
+      "source": ""
+    }
+  ]
+}

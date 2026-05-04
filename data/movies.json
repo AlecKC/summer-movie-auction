@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T03:16:11.621Z",
+  "lastUpdated": "2026-05-04T10:03:14.277Z",
   "movies": [
     {
       "id": "the-devil-wears-prada-2",
@@ -8,13 +8,14 @@
       "releaseDate": "2026-05-01",
       "domesticgross": 77000000,
       "point_cost": 30,
-      "dailychange": 19500000,
+      "dailychange": 0,
       "revenueurl": "https://www.the-numbers.com/movie/Devil-Wears-Prada-2-The-(2026)",
       "source": "the-numbers.com",
       "history": {
         "2026-05-01": 32500000,
         "2026-05-02": 57500000,
-        "2026-05-03": 77000000
+        "2026-05-03": 77000000,
+        "2026-05-04": 77000000
       }
     },
     {
@@ -24,13 +25,14 @@
       "releaseDate": "2026-05-01",
       "domesticgross": 3400000,
       "point_cost": 5,
-      "dailychange": 949546,
+      "dailychange": 0,
       "revenueurl": "https://www.the-numbers.com/movie/Animal-Farm-(2026)",
       "source": "the-numbers.com",
       "history": {
         "2026-05-01": 1145988,
         "2026-05-02": 2450454,
-        "2026-05-03": 3400000
+        "2026-05-03": 3400000,
+        "2026-05-04": 3400000
       }
     },
     {

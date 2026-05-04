@@ -460,7 +460,7 @@ main {
   fill: none;
   stroke-linecap: round;
   stroke-linejoin: round;
-  stroke-width: 2.5;
+  stroke-width: 1.5;
   transition: opacity 150ms ease, stroke-width 150ms ease;
 }
 
@@ -490,7 +490,7 @@ main {
 .tooltip-text {
   fill: var(--white);
   font-size: 13px;
-  font-weight: 800;
+  font-weight: 400;
   text-anchor: start;
 }
 

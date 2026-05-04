@@ -177,6 +177,10 @@ function aggregateRows() {
     return aggregateHistoricalPlayerRows();
   }
 
+  if (state.graphPlayer !== "All" && Array.isArray(state.history.snapshots) && state.history.snapshots.some((snapshot) => snapshot.movies)) {
+    return aggregateHistoricalMovieRows();
+  }
+
   const days = seasonDays();
   const keys = state.graphPlayer === "All"
     ? PLAYERS
@@ -206,19 +210,15 @@ function aggregateRows() {
 }
 
 function aggregateHistoricalPlayerRows() {
-  const days = seasonDays();
-  const snapshots = new Map(state.history.snapshots.map((snapshot) => [snapshot.date, snapshot.players || {}]));
-  let latest = Object.fromEntries(PLAYERS.map((player) => [player, 0]));
-  const rows = days.map((date) => {
-    const rawDate = keyFor(date);
-    if (snapshots.has(rawDate)) {
-      latest = { ...latest, ...snapshots.get(rawDate) };
-    }
-
+  const snapshots = [...state.history.snapshots]
+    .filter((snapshot) => snapshot.date && snapshot.players)
+    .sort((a, b) => a.date.localeCompare(b.date));
+  const rows = snapshots.map((snapshot) => {
+    const date = parseDate(snapshot.date);
     return {
       date: displayDate(date),
-      rawDate,
-      ...Object.fromEntries(PLAYERS.map((player) => [player, Number(latest[player] || 0)]))
+      rawDate: snapshot.date,
+      ...Object.fromEntries(PLAYERS.map((player) => [player, Number(snapshot.players[player] || 0)]))
     };
   });
 
@@ -234,6 +234,42 @@ function aggregateHistoricalPlayerRows() {
   }
 
   return compressRows(rows, PLAYERS);
+}
+
+function aggregateHistoricalMovieRows() {
+  const owner = state.owners.find((item) => item.name === state.graphPlayer);
+  const movies = owner?.movies || [];
+  const keys = movies.map((movie) => movie.title);
+  const movieById = new Map(movies.map((movie) => [movie.id, movie]));
+  const snapshots = [...state.history.snapshots]
+    .filter((snapshot) => snapshot.date && snapshot.movies)
+    .sort((a, b) => a.date.localeCompare(b.date));
+  const rows = snapshots.map((snapshot) => {
+    const date = parseDate(snapshot.date);
+    const row = {
+      date: displayDate(date),
+      rawDate: snapshot.date
+    };
+
+    for (const [id, movie] of movieById.entries()) {
+      row[movie.title] = Number(snapshot.movies[id] || 0);
+    }
+
+    return row;
+  });
+
+  if (!state.graphCumulative) {
+    const previous = Object.fromEntries(keys.map((key) => [key, 0]));
+    for (const row of rows) {
+      for (const key of keys) {
+        const next = Number(row[key] || 0);
+        row[key] = Math.max(next - previous[key], 0);
+        previous[key] = next;
+      }
+    }
+  }
+
+  return compressRows(rows, keys);
 }
 
 function compressRows(rows, keys) {

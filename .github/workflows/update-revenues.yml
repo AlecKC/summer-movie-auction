@@ -2,7 +2,7 @@ name: Update movie revenues
 
 on:
   schedule:
-    - cron: "20 13 * * *"
+    - cron: "57 7 * * *"
   workflow_dispatch:
 
 permissions:

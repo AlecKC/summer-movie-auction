@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-05-07T10:11:09.636Z",
+  "lastUpdated": "2026-05-08T09:01:52.990Z",
   "movies": [
     {
       "id": "the-devil-wears-prada-2",
       "title": "The Devil Wears Prada 2",
       "owner": "Daniel",
       "releaseDate": "2026-05-01",
-      "domesticgross": 90708623,
+      "domesticgross": 96645284,
       "point_cost": 30,
-      "dailychange": 8264406,
+      "dailychange": 5936661,
       "revenueurl": "https://www.the-numbers.com/movie/Devil-Wears-Prada-2-The-(2026)",
       "source": "the-numbers.com",
       "history": {
@@ -17,7 +17,8 @@
         "2026-05-03": 76747075,
         "2026-05-05": 76747075,
         "2026-05-06": 82444217,
-        "2026-05-07": 90708623
+        "2026-05-07": 90708623,
+        "2026-05-08": 96645284
       }
     },
     {
@@ -25,9 +26,9 @@
       "title": "Animal Farm",
       "owner": "Jordan",
       "releaseDate": "2026-05-01",
-      "domesticgross": 3891255,
+      "domesticgross": 4155712,
       "point_cost": 5,
-      "dailychange": 350426,
+      "dailychange": 264457,
       "revenueurl": "https://www.the-numbers.com/movie/Animal-Farm-(2026)",
       "source": "the-numbers.com",
       "history": {
@@ -36,7 +37,8 @@
         "2026-05-03": 3301363,
         "2026-05-05": 3301363,
         "2026-05-06": 3540829,
-        "2026-05-07": 3891255
+        "2026-05-07": 3891255,
+        "2026-05-08": 4155712
       }
     },
     {

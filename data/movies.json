@@ -1,89 +1,94 @@
 {
-  "lastUpdated": "2026-05-09T09:04:03.537Z",
+  "lastUpdated": "2026-05-10T09:24:42.984Z",
   "movies": [
     {
       "id": "the-devil-wears-prada-2",
       "title": "The Devil Wears Prada 2",
       "owner": "Daniel",
       "releaseDate": "2026-05-01",
-      "domesticgross": 101844258,
+      "domesticgross": 111644258,
       "point_cost": 30,
-      "dailychange": 5198974,
-      "revenueurl": "https://www.the-numbers.com/movie/Devil-Wears-Prada-2-The-(2026)",
-      "source": "the-numbers.com",
+      "dailychange": 9800000,
+      "revenueurl": "https://www.boxofficemojo.com/release/rl365461505/",
+      "source": "boxofficemojo.com",
       "history": {
         "2026-05-01": 32900084,
         "2026-05-02": 58005624,
         "2026-05-03": 76747075,
-        "2026-05-05": 76747075,
-        "2026-05-06": 82444217,
-        "2026-05-07": 90708623,
-        "2026-05-08": 96645284,
-        "2026-05-09": 101844258
-      }
+        "2026-05-04": 82444217,
+        "2026-05-05": 90708623,
+        "2026-05-06": 96645284,
+        "2026-05-07": 101844258,
+        "2026-05-08": 111644258
+      },
+      "lastRevenueDate": "2026-05-08"
     },
     {
       "id": "animal-farm",
       "title": "Animal Farm",
       "owner": "Jordan",
       "releaseDate": "2026-05-01",
-      "domesticgross": 4336753,
+      "domesticgross": 4520457,
       "point_cost": 5,
-      "dailychange": 181041,
-      "revenueurl": "https://www.the-numbers.com/movie/Animal-Farm-(2026)",
-      "source": "the-numbers.com",
+      "dailychange": 183704,
+      "revenueurl": "https://www.boxofficemojo.com/release/rl528646145",
+      "source": "boxofficemojo.com",
       "history": {
         "2026-05-01": 1145988,
         "2026-05-02": 2450454,
         "2026-05-03": 3301363,
-        "2026-05-05": 3301363,
-        "2026-05-06": 3540829,
-        "2026-05-07": 3891255,
-        "2026-05-08": 4155712,
-        "2026-05-09": 4336753
-      }
+        "2026-05-04": 3540829,
+        "2026-05-05": 3891255,
+        "2026-05-06": 4155712,
+        "2026-05-07": 4336753,
+        "2026-05-08": 4520457
+      },
+      "lastRevenueDate": "2026-05-08"
     },
     {
       "id": "mortal-kombat-ii",
       "title": "Mortal Kombat II",
       "owner": "Cole",
       "releaseDate": "2026-05-08",
-      "domesticgross": 5200000,
+      "domesticgross": 17000000,
       "point_cost": 8,
-      "dailychange": 5200000,
-      "revenueurl": "https://www.the-numbers.com/movie/Mortal-Kombat-II-(2026)",
-      "source": "the-numbers.com",
+      "dailychange": 0,
+      "revenueurl": "https://www.boxofficemojo.com/release/rl3832053761",
+      "source": "boxofficemojo.com",
       "history": {
-        "2026-05-09": 5200000
-      }
+        "2026-05-08": 17000000
+      },
+      "lastRevenueDate": "2026-05-08"
     },
     {
       "id": "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d",
       "title": "Billie Eilish: Hit Me Hard and Soft: The Tour (Live in 3D)",
       "owner": "Brett",
       "releaseDate": "2026-05-06",
-      "domesticgross": 2200000,
+      "domesticgross": 4500000,
       "point_cost": 11,
-      "dailychange": 2200000,
-      "revenueurl": "https://www.the-numbers.com/movie/Billie-Eilish-Hit-Me-Hard-and-Soft-The-Tour-(2026)",
-      "source": "the-numbers.com",
+      "dailychange": 0,
+      "revenueurl": "https://www.boxofficemojo.com/release/rl2650767361",
+      "source": "boxofficemojo.com",
       "history": {
-        "2026-05-09": 2200000
-      }
+        "2026-05-08": 4500000
+      },
+      "lastRevenueDate": "2026-05-08"
     },
     {
       "id": "the-sheep-detectives",
       "title": "The Sheep Detectives",
       "owner": "Daniel",
       "releaseDate": "2026-05-08",
-      "domesticgross": 1030000,
+      "domesticgross": 4011000,
       "point_cost": 10,
-      "dailychange": 1030000,
-      "revenueurl": "https://www.the-numbers.com/movie/Sheep-Detectives-The-(2026)",
-      "source": "the-numbers.com",
+      "dailychange": 0,
+      "revenueurl": "https://www.boxofficemojo.com/release/rl1601339393",
+      "source": "boxofficemojo.com",
       "history": {
-        "2026-05-09": 1030000
-      }
+        "2026-05-08": 4011000
+      },
+      "lastRevenueDate": "2026-05-08"
     },
     {
       "id": "obsession",
@@ -93,7 +98,7 @@
       "domesticgross": 0,
       "point_cost": 7,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Obsession-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -104,7 +109,7 @@
       "domesticgross": 0,
       "point_cost": 9,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/In-the-Grey-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -115,7 +120,7 @@
       "domesticgross": 0,
       "point_cost": 35,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Mandalorian-and-Grogu-The-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -126,7 +131,7 @@
       "domesticgross": 0,
       "point_cost": 6,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Passenger-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -137,7 +142,7 @@
       "domesticgross": 0,
       "point_cost": 8,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/I-Love-Boosters-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -148,7 +153,7 @@
       "domesticgross": 0,
       "point_cost": 4,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Finding-Emily-(2026-United-Kingdom)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -159,7 +164,7 @@
       "domesticgross": 0,
       "point_cost": 14,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Backrooms-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -170,7 +175,7 @@
       "domesticgross": 0,
       "point_cost": 5,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Pressure-(2026-United-Kingdom)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -181,7 +186,7 @@
       "domesticgross": 0,
       "point_cost": 43,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Disclosure-Day-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -192,7 +197,7 @@
       "domesticgross": 0,
       "point_cost": 7,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Power-Ballad-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -203,7 +208,7 @@
       "domesticgross": 0,
       "point_cost": 9,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Masters-of-the-Universe-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -214,7 +219,7 @@
       "domesticgross": 0,
       "point_cost": 8,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Scary-Movie-6-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -225,7 +230,7 @@
       "domesticgross": 0,
       "point_cost": 37,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Toy-Story-5-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -236,7 +241,7 @@
       "domesticgross": 0,
       "point_cost": 5,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Girls-Like-Girls-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -247,7 +252,7 @@
       "domesticgross": 0,
       "point_cost": 15,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Death-of-Robin-Hood-The-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -258,7 +263,7 @@
       "domesticgross": 0,
       "point_cost": 17,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Supergirl-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -269,7 +274,7 @@
       "domesticgross": 0,
       "point_cost": 6,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Jackass-Best-and-Last-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -280,7 +285,7 @@
       "domesticgross": 0,
       "point_cost": 4,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/I-Want-Your-Sex-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -291,7 +296,7 @@
       "domesticgross": 0,
       "point_cost": 24,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Minions-and-Monsters-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -302,7 +307,7 @@
       "domesticgross": 0,
       "point_cost": 15,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Young-Washington-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -313,7 +318,7 @@
       "domesticgross": 0,
       "point_cost": 8,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Evil-Dead-Burn-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -324,7 +329,7 @@
       "domesticgross": 0,
       "point_cost": 35,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Moana-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -335,7 +340,7 @@
       "domesticgross": 0,
       "point_cost": 49,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Odyssey-The-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -346,7 +351,7 @@
       "domesticgross": 0,
       "point_cost": 48,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Spider-Man-Brand-New-Day-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -357,7 +362,7 @@
       "domesticgross": 0,
       "point_cost": 7,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Teenage-Sex-and-Death-at-Camp-Miasma-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -368,7 +373,7 @@
       "domesticgross": 0,
       "point_cost": 18,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/One-Night-Only-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -379,7 +384,7 @@
       "domesticgross": 0,
       "point_cost": 23,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Super-Troopers-3-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -390,7 +395,7 @@
       "domesticgross": 0,
       "point_cost": 26,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Paw-Patrol-The-Dino-Movie-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
@@ -401,18 +406,18 @@
       "domesticgross": 0,
       "point_cost": 25,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Cliffhanger-(2026)",
+      "revenueurl": "",
       "source": ""
     },
     {
       "id": "the-furious",
       "title": "The Furious",
       "owner": "Cole",
-      "releaseDate": "2026-07-01",
+      "releaseDate": "2026-06-12",
       "domesticgross": 0,
       "point_cost": 36,
       "dailychange": 0,
-      "revenueurl": "https://www.the-numbers.com/movie/Furious-The-(2026-Hong-Kong)",
+      "revenueurl": "",
       "source": ""
     }
   ]

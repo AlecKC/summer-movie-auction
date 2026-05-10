@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-05-09T09:04:03.537Z",
+  "lastUpdated": "2026-05-10T09:18:20.331Z",
   "movies": [
     {
       "id": "the-devil-wears-prada-2",
       "title": "The Devil Wears Prada 2",
       "owner": "Daniel",
       "releaseDate": "2026-05-01",
-      "domesticgross": 101844258,
+      "domesticgross": 111644258,
       "point_cost": 30,
-      "dailychange": 5198974,
+      "dailychange": 9800000,
       "revenueurl": "https://www.the-numbers.com/movie/Devil-Wears-Prada-2-The-(2026)",
       "source": "the-numbers.com",
       "history": {
@@ -19,7 +19,8 @@
         "2026-05-06": 82444217,
         "2026-05-07": 90708623,
         "2026-05-08": 96645284,
-        "2026-05-09": 101844258
+        "2026-05-09": 101844258,
+        "2026-05-10": 111644258
       }
     },
     {
@@ -27,9 +28,9 @@
       "title": "Animal Farm",
       "owner": "Jordan",
       "releaseDate": "2026-05-01",
-      "domesticgross": 4336753,
+      "domesticgross": 4520457,
       "point_cost": 5,
-      "dailychange": 181041,
+      "dailychange": 183704,
       "revenueurl": "https://www.the-numbers.com/movie/Animal-Farm-(2026)",
       "source": "the-numbers.com",
       "history": {
@@ -40,7 +41,8 @@
         "2026-05-06": 3540829,
         "2026-05-07": 3891255,
         "2026-05-08": 4155712,
-        "2026-05-09": 4336753
+        "2026-05-09": 4336753,
+        "2026-05-10": 4520457
       }
     },
     {
@@ -48,13 +50,14 @@
       "title": "Mortal Kombat II",
       "owner": "Cole",
       "releaseDate": "2026-05-08",
-      "domesticgross": 5200000,
+      "domesticgross": 17000000,
       "point_cost": 8,
-      "dailychange": 5200000,
+      "dailychange": 11800000,
       "revenueurl": "https://www.the-numbers.com/movie/Mortal-Kombat-II-(2026)",
       "source": "the-numbers.com",
       "history": {
-        "2026-05-09": 5200000
+        "2026-05-09": 5200000,
+        "2026-05-10": 17000000
       }
     },
     {
@@ -62,13 +65,14 @@
       "title": "Billie Eilish: Hit Me Hard and Soft: The Tour (Live in 3D)",
       "owner": "Brett",
       "releaseDate": "2026-05-06",
-      "domesticgross": 2200000,
+      "domesticgross": 4500000,
       "point_cost": 11,
-      "dailychange": 2200000,
+      "dailychange": 2300000,
       "revenueurl": "https://www.the-numbers.com/movie/Billie-Eilish-Hit-Me-Hard-and-Soft-The-Tour-(2026)",
       "source": "the-numbers.com",
       "history": {
-        "2026-05-09": 2200000
+        "2026-05-09": 2200000,
+        "2026-05-10": 4500000
       }
     },
     {
@@ -76,13 +80,14 @@
       "title": "The Sheep Detectives",
       "owner": "Daniel",
       "releaseDate": "2026-05-08",
-      "domesticgross": 1030000,
+      "domesticgross": 4011000,
       "point_cost": 10,
-      "dailychange": 1030000,
+      "dailychange": 2981000,
       "revenueurl": "https://www.the-numbers.com/movie/Sheep-Detectives-The-(2026)",
       "source": "the-numbers.com",
       "history": {
-        "2026-05-09": 1030000
+        "2026-05-09": 1030000,
+        "2026-05-10": 4011000
       }
     },
     {

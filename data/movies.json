@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-05-12T10:18:17.564Z",
+  "lastUpdated": "2026-05-13T10:09:59.321Z",
   "movies": [
     {
       "id": "the-devil-wears-prada-2",
       "title": "The Devil Wears Prada 2",
       "owner": "Daniel",
       "releaseDate": "2026-05-01",
-      "domesticgross": 143447244,
+      "domesticgross": 146821436,
       "point_cost": 30,
-      "dailychange": 16287351,
+      "dailychange": 3374192,
       "revenueurl": "https://www.boxofficemojo.com/release/rl365461505/",
       "source": "boxofficemojo.com",
       "history": {
@@ -21,18 +21,19 @@
         "2026-05-07": 101844258,
         "2026-05-08": 111732749,
         "2026-05-09": 127159893,
-        "2026-05-10": 143447244
+        "2026-05-10": 143447244,
+        "2026-05-11": 146821436
       },
-      "lastRevenueDate": "2026-05-10"
+      "lastRevenueDate": "2026-05-11"
     },
     {
       "id": "animal-farm",
       "title": "Animal Farm",
       "owner": "Jordan",
       "releaseDate": "2026-05-01",
-      "domesticgross": 5040903,
+      "domesticgross": 5110142,
       "point_cost": 5,
-      "dailychange": 232941,
+      "dailychange": 69239,
       "revenueurl": "https://www.boxofficemojo.com/release/rl528646145",
       "source": "boxofficemojo.com",
       "history": {
@@ -45,60 +46,64 @@
         "2026-05-07": 4336753,
         "2026-05-08": 4520457,
         "2026-05-09": 4807962,
-        "2026-05-10": 5040903
+        "2026-05-10": 5040903,
+        "2026-05-11": 5110142
       },
-      "lastRevenueDate": "2026-05-10"
+      "lastRevenueDate": "2026-05-11"
     },
     {
       "id": "mortal-kombat-ii",
       "title": "Mortal Kombat II",
       "owner": "Cole",
       "releaseDate": "2026-05-08",
-      "domesticgross": 38501177,
+      "domesticgross": 41254042,
       "point_cost": 8,
-      "dailychange": 8402098,
+      "dailychange": 2752865,
       "revenueurl": "https://www.boxofficemojo.com/release/rl3832053761",
       "source": "boxofficemojo.com",
       "history": {
         "2026-05-08": 16801022,
         "2026-05-09": 30099079,
-        "2026-05-10": 38501177
+        "2026-05-10": 38501177,
+        "2026-05-11": 41254042
       },
-      "lastRevenueDate": "2026-05-10"
+      "lastRevenueDate": "2026-05-11"
     },
     {
       "id": "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d",
       "title": "Billie Eilish: Hit Me Hard and Soft: The Tour (Live in 3D)",
       "owner": "Brett",
       "releaseDate": "2026-05-06",
-      "domesticgross": 7011311,
+      "domesticgross": 7423061,
       "point_cost": 11,
-      "dailychange": 752882,
+      "dailychange": 411750,
       "revenueurl": "https://www.boxofficemojo.com/release/rl2650767361",
       "source": "boxofficemojo.com",
       "history": {
         "2026-05-08": 4520209,
         "2026-05-09": 6258429,
-        "2026-05-10": 7011311
+        "2026-05-10": 7011311,
+        "2026-05-11": 7423061
       },
-      "lastRevenueDate": "2026-05-10"
+      "lastRevenueDate": "2026-05-11"
     },
     {
       "id": "the-sheep-detectives",
       "title": "The Sheep Detectives",
       "owner": "Daniel",
       "releaseDate": "2026-05-08",
-      "domesticgross": 15087796,
+      "domesticgross": 16201268,
       "point_cost": 10,
-      "dailychange": 5890364,
+      "dailychange": 1113472,
       "revenueurl": "https://www.boxofficemojo.com/release/rl1601339393",
       "source": "boxofficemojo.com",
       "history": {
         "2026-05-08": 4010418,
         "2026-05-09": 9197432,
-        "2026-05-10": 15087796
+        "2026-05-10": 15087796,
+        "2026-05-11": 16201268
       },
-      "lastRevenueDate": "2026-05-10"
+      "lastRevenueDate": "2026-05-11"
     },
     {
       "id": "obsession",

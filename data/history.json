@@ -704,21 +704,21 @@
       "date": "2026-05-15",
       "players": {
         "Alec": 0,
-        "Alex": 6970000,
-        "John": 1140000,
+        "Alex": 6977085,
+        "John": 1171749,
         "Jordan": 5377765,
-        "Cole": 52432532,
-        "Daniel": 185954829,
-        "Brett": 8755124
+        "Cole": 52382817,
+        "Daniel": 186006390,
+        "Brett": 8762169
       },
       "movies": {
-        "the-devil-wears-prada-2": 163162196,
+        "the-devil-wears-prada-2": 163211581,
         "animal-farm": 5377765,
-        "mortal-kombat-ii": 52432532,
-        "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d": 8755124,
-        "the-sheep-detectives": 22792633,
-        "obsession": 6970000,
-        "in-the-grey": 1140000,
+        "mortal-kombat-ii": 52382817,
+        "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d": 8762169,
+        "the-sheep-detectives": 22794809,
+        "obsession": 6977085,
+        "in-the-grey": 1171749,
         "star-wars-the-mandalorian-grogu": 0,
         "passenger": 0,
         "i-love-boosters": 0,
@@ -748,27 +748,27 @@
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 260630250
+      "total": 260677975
     },
     {
       "date": "2026-05-16",
       "players": {
         "Alec": 0,
-        "Alex": 12370000,
-        "John": 1140000,
+        "Alex": 12393995,
+        "John": 2205536,
         "Jordan": 5408150,
-        "Cole": 58192532,
-        "Daniel": 197094868,
-        "Brett": 9105124
+        "Cole": 58102960,
+        "Daniel": 197225403,
+        "Brett": 9116352
       },
       "movies": {
-        "the-devil-wears-prada-2": 170262196,
+        "the-devil-wears-prada-2": 170404703,
         "animal-farm": 5408150,
-        "mortal-kombat-ii": 58192532,
-        "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d": 9105124,
-        "the-sheep-detectives": 26832672,
-        "obsession": 12370000,
-        "in-the-grey": 1140000,
+        "mortal-kombat-ii": 58102960,
+        "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d": 9116352,
+        "the-sheep-detectives": 26820700,
+        "obsession": 12393995,
+        "in-the-grey": 2205536,
         "star-wars-the-mandalorian-grogu": 0,
         "passenger": 0,
         "i-love-boosters": 0,
@@ -798,27 +798,27 @@
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 283310674
+      "total": 284452396
     },
     {
       "date": "2026-05-17",
       "players": {
         "Alec": 0,
-        "Alex": 16100000,
-        "John": 1140000,
-        "Jordan": 5426988,
-        "Cole": 62232532,
-        "Daniel": 205522895,
-        "Brett": 9295124
+        "Alex": 17196855,
+        "John": 2926879,
+        "Jordan": 5429212,
+        "Cole": 62233170,
+        "Daniel": 205628859,
+        "Brett": 9408641
       },
       "movies": {
-        "the-devil-wears-prada-2": 175862196,
-        "animal-farm": 5426988,
-        "mortal-kombat-ii": 62232532,
-        "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d": 9295124,
-        "the-sheep-detectives": 29660699,
-        "obsession": 16100000,
-        "in-the-grey": 1140000,
+        "the-devil-wears-prada-2": 175712929,
+        "animal-farm": 5429212,
+        "mortal-kombat-ii": 62233170,
+        "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d": 9408641,
+        "the-sheep-detectives": 29915930,
+        "obsession": 17196855,
+        "in-the-grey": 2926879,
         "star-wars-the-mandalorian-grogu": 0,
         "passenger": 0,
         "i-love-boosters": 0,
@@ -848,7 +848,7 @@
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 299717539
+      "total": 302823616
     }
   ]
 }

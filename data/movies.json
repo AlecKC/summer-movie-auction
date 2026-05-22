@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-05-21T10:55:40.434Z",
+  "lastUpdated": "2026-05-22T10:38:34.319Z",
   "movies": [
     {
       "id": "the-devil-wears-prada-2",
       "title": "The Devil Wears Prada 2",
       "owner": "Daniel",
       "releaseDate": "2026-05-01",
-      "domesticgross": 180204842,
+      "domesticgross": 181955658,
       "point_cost": 30,
-      "dailychange": 2545107,
+      "dailychange": 1750816,
       "revenueurl": "https://www.boxofficemojo.com/release/rl365461505/",
       "source": "boxofficemojo.com",
       "history": {
@@ -30,18 +30,19 @@
         "2026-05-16": 170404703,
         "2026-05-17": 175712929,
         "2026-05-18": 177659735,
-        "2026-05-19": 180204842
+        "2026-05-19": 180204842,
+        "2026-05-20": 181955658
       },
-      "lastRevenueDate": "2026-05-19"
+      "lastRevenueDate": "2026-05-20"
     },
     {
       "id": "animal-farm",
       "title": "Animal Farm",
       "owner": "Jordan",
       "releaseDate": "2026-05-01",
-      "domesticgross": 5457039,
+      "domesticgross": 5472124,
       "point_cost": 5,
-      "dailychange": 15043,
+      "dailychange": 15085,
       "revenueurl": "https://www.boxofficemojo.com/release/rl528646145",
       "source": "boxofficemojo.com",
       "history": {
@@ -63,18 +64,19 @@
         "2026-05-16": 5408150,
         "2026-05-17": 5429212,
         "2026-05-18": 5441996,
-        "2026-05-19": 5457039
+        "2026-05-19": 5457039,
+        "2026-05-20": 5472124
       },
-      "lastRevenueDate": "2026-05-19"
+      "lastRevenueDate": "2026-05-20"
     },
     {
       "id": "mortal-kombat-ii",
       "title": "Mortal Kombat II",
       "owner": "Cole",
       "releaseDate": "2026-05-08",
-      "domesticgross": 64872756,
+      "domesticgross": 65832933,
       "point_cost": 8,
-      "dailychange": 1458063,
+      "dailychange": 960177,
       "revenueurl": "https://www.boxofficemojo.com/release/rl3832053761",
       "source": "boxofficemojo.com",
       "history": {
@@ -89,18 +91,19 @@
         "2026-05-16": 58102960,
         "2026-05-17": 62233170,
         "2026-05-18": 63414693,
-        "2026-05-19": 64872756
+        "2026-05-19": 64872756,
+        "2026-05-20": 65832933
       },
-      "lastRevenueDate": "2026-05-19"
+      "lastRevenueDate": "2026-05-20"
     },
     {
       "id": "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d",
       "title": "Billie Eilish: Hit Me Hard and Soft: The Tour (Live in 3D)",
       "owner": "Brett",
       "releaseDate": "2026-05-06",
-      "domesticgross": 9681084,
+      "domesticgross": 9829755,
       "point_cost": 11,
-      "dailychange": 151218,
+      "dailychange": 148671,
       "revenueurl": "https://www.boxofficemojo.com/release/rl2650767361",
       "source": "boxofficemojo.com",
       "history": {
@@ -115,18 +118,19 @@
         "2026-05-16": 9116352,
         "2026-05-17": 9408641,
         "2026-05-18": 9529866,
-        "2026-05-19": 9681084
+        "2026-05-19": 9681084,
+        "2026-05-20": 9829755
       },
-      "lastRevenueDate": "2026-05-19"
+      "lastRevenueDate": "2026-05-20"
     },
     {
       "id": "the-sheep-detectives",
       "title": "The Sheep Detectives",
       "owner": "Daniel",
       "releaseDate": "2026-05-08",
-      "domesticgross": 32611011,
+      "domesticgross": 33598256,
       "point_cost": 10,
-      "dailychange": 1550690,
+      "dailychange": 987245,
       "revenueurl": "https://www.boxofficemojo.com/release/rl1601339393",
       "source": "boxofficemojo.com",
       "history": {
@@ -141,18 +145,19 @@
         "2026-05-16": 26820700,
         "2026-05-17": 29915930,
         "2026-05-18": 31060321,
-        "2026-05-19": 32611011
+        "2026-05-19": 32611011,
+        "2026-05-20": 33598256
       },
-      "lastRevenueDate": "2026-05-19"
+      "lastRevenueDate": "2026-05-20"
     },
     {
       "id": "obsession",
       "title": "Obsession",
       "owner": "Alex",
       "releaseDate": "2026-05-15",
-      "domesticgross": 23750980,
+      "domesticgross": 26986955,
       "point_cost": 7,
-      "dailychange": 3644260,
+      "dailychange": 3235975,
       "revenueurl": "https://www.boxofficemojo.com/release/rl1660846081",
       "source": "boxofficemojo.com",
       "history": {
@@ -160,27 +165,30 @@
         "2026-05-16": 12393995,
         "2026-05-17": 17196855,
         "2026-05-18": 20106720,
-        "2026-05-19": 23750980
+        "2026-05-19": 23750980,
+        "2026-05-20": 26986955
       },
-      "lastRevenueDate": "2026-05-19"
+      "lastRevenueDate": "2026-05-20"
     },
     {
       "id": "in-the-grey",
       "title": "In the Grey",
       "owner": "John",
       "releaseDate": "2026-05-15",
-      "domesticgross": 3207772,
+      "domesticgross": 3938697,
       "point_cost": 9,
-      "dailychange": 280893,
+      "dailychange": 281937,
       "revenueurl": "https://www.boxofficemojo.com/release/rl3210838017",
       "source": "boxofficemojo.com",
       "history": {
         "2026-05-15": 1171749,
         "2026-05-16": 2205536,
         "2026-05-17": 2926879,
-        "2026-05-18": 3207772
+        "2026-05-18": 3207772,
+        "2026-05-19": 3656760,
+        "2026-05-20": 3938697
       },
-      "lastRevenueDate": "2026-05-18"
+      "lastRevenueDate": "2026-05-20"
     },
     {
       "id": "star-wars-the-mandalorian-grogu",

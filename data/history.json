@@ -1049,6 +1049,56 @@
         "the-furious": 0
       },
       "total": 334533175
+    },
+    {
+      "date": "2026-05-22",
+      "players": {
+        "Alec": 3510000,
+        "Alex": 69454017,
+        "John": 5606961,
+        "Jordan": 5494892,
+        "Cole": 68046785,
+        "Daniel": 223368767,
+        "Brett": 9901485
+      },
+      "movies": {
+        "the-devil-wears-prada-2": 186725726,
+        "animal-farm": 5494892,
+        "mortal-kombat-ii": 68046785,
+        "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d": 9901485,
+        "the-sheep-detectives": 36643041,
+        "obsession": 36454010,
+        "in-the-grey": 4106961,
+        "star-wars-the-mandalorian-grogu": 33000007,
+        "passenger": 3510000,
+        "i-love-boosters": 1500000,
+        "finding-emily": 0,
+        "the-backrooms": 0,
+        "pressure": 0,
+        "disclosure-day": 0,
+        "power-ballad": 0,
+        "masters-of-the-universe": 0,
+        "scary-movie-6": 0,
+        "toy-story-5": 0,
+        "girls-like-girls": 0,
+        "the-death-of-robin-hood": 0,
+        "supergirl-woman-of-tomorrow": 0,
+        "jackass-5-best-and-last": 0,
+        "i-want-your-sex": 0,
+        "minions-monsters": 0,
+        "young-washington": 0,
+        "evil-dead-burn": 0,
+        "moana-live-action": 0,
+        "the-odyssey": 0,
+        "spider-man-brand-new-day": 0,
+        "teenage-sex-and-death-at-camp-miasma": 0,
+        "one-night-only": 0,
+        "super-troopers-3": 0,
+        "paw-patrol-the-dino-movie": 0,
+        "cliffhanger": 0,
+        "the-furious": 0
+      },
+      "total": 385382907
     }
   ]
 }

@@ -1053,25 +1053,25 @@
     {
       "date": "2026-05-22",
       "players": {
-        "Alec": 3520000,
-        "Alex": 69464010,
-        "John": 5606961,
+        "Alec": 3522058,
+        "Alex": 70262505,
+        "John": 5839757,
         "Jordan": 5494892,
-        "Cole": 68056785,
-        "Daniel": 223368767,
+        "Cole": 68057162,
+        "Daniel": 223325194,
         "Brett": 9901485
       },
       "movies": {
-        "the-devil-wears-prada-2": 186725726,
+        "the-devil-wears-prada-2": 186681860,
         "animal-farm": 5494892,
-        "mortal-kombat-ii": 68056785,
+        "mortal-kombat-ii": 68057162,
         "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d": 9901485,
-        "the-sheep-detectives": 36643041,
-        "obsession": 36464010,
-        "in-the-grey": 4106961,
-        "star-wars-the-mandalorian-grogu": 33000000,
-        "passenger": 3520000,
-        "i-love-boosters": 1500000,
+        "the-sheep-detectives": 36643334,
+        "obsession": 36472180,
+        "in-the-grey": 4339088,
+        "star-wars-the-mandalorian-grogu": 33790325,
+        "passenger": 3522058,
+        "i-love-boosters": 1500669,
         "finding-emily": 0,
         "the-backrooms": 0,
         "pressure": 0,
@@ -1098,30 +1098,30 @@
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 385412900
+      "total": 386403053
     },
     {
       "date": "2026-05-23",
       "players": {
-        "Alec": 6270000,
-        "Alex": 103554010,
-        "John": 6776961,
+        "Alec": 6283834,
+        "Alex": 104742693,
+        "John": 7374819,
         "Jordan": 5499593,
-        "Cole": 70466785,
-        "Daniel": 231906767,
+        "Cole": 70467329,
+        "Daniel": 231820201,
         "Brett": 9901485
       },
       "movies": {
-        "the-devil-wears-prada-2": 191625726,
+        "the-devil-wears-prada-2": 191536136,
         "animal-farm": 5499593,
-        "mortal-kombat-ii": 70466785,
+        "mortal-kombat-ii": 70467329,
         "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d": 9901485,
-        "the-sheep-detectives": 40281041,
-        "obsession": 45054010,
-        "in-the-grey": 4106961,
-        "star-wars-the-mandalorian-grogu": 58500000,
-        "passenger": 6270000,
-        "i-love-boosters": 2670000,
+        "the-sheep-detectives": 40284065,
+        "obsession": 45098370,
+        "in-the-grey": 4703628,
+        "star-wars-the-mandalorian-grogu": 59644323,
+        "passenger": 6283834,
+        "i-love-boosters": 2671191,
         "finding-emily": 0,
         "the-backrooms": 0,
         "pressure": 0,
@@ -1148,30 +1148,30 @@
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 434375601
+      "total": 436089954
     },
     {
       "date": "2026-05-24",
       "players": {
-        "Alec": 8700000,
-        "Alex": 134744010,
-        "John": 7829961,
-        "Jordan": 5502648,
-        "Cole": 72766785,
-        "Daniel": 239637767,
+        "Alec": 8746797,
+        "Alex": 136016783,
+        "John": 8823303,
+        "Jordan": 5503004,
+        "Cole": 72667614,
+        "Daniel": 239974931,
         "Brett": 9901485
       },
       "movies": {
-        "the-devil-wears-prada-2": 196118726,
-        "animal-farm": 5502648,
-        "mortal-kombat-ii": 72766785,
+        "the-devil-wears-prada-2": 196233648,
+        "animal-farm": 5503004,
+        "mortal-kombat-ii": 72667614,
         "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d": 9901485,
-        "the-sheep-detectives": 43519041,
-        "obsession": 52784010,
-        "in-the-grey": 4106961,
-        "star-wars-the-mandalorian-grogu": 81960000,
-        "passenger": 8700000,
-        "i-love-boosters": 3723000,
+        "the-sheep-detectives": 43741283,
+        "obsession": 54346350,
+        "in-the-grey": 5040116,
+        "star-wars-the-mandalorian-grogu": 81670433,
+        "passenger": 8746797,
+        "i-love-boosters": 3783187,
         "finding-emily": 0,
         "the-backrooms": 0,
         "pressure": 0,
@@ -1198,7 +1198,7 @@
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 479082656
+      "total": 481633917
     }
   ]
 }

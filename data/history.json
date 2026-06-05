@@ -1353,7 +1353,7 @@
     {
       "date": "2026-05-29",
       "players": {
-        "Alec": 13517468,
+        "Alec": 13595961,
         "Alex": 243863948,
         "John": 12017324,
         "Jordan": 8016467,
@@ -1376,7 +1376,7 @@
         "the-backrooms": 38412634,
         "pressure": 2485695,
         "disclosure-day": 0,
-        "power-ballad": 0,
+        "power-ballad": 78493,
         "masters-of-the-universe": 0,
         "scary-movie-6": 0,
         "toy-story-5": 0,
@@ -1398,12 +1398,12 @@
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 619969935
+      "total": 620048428
     },
     {
       "date": "2026-05-30",
       "players": {
-        "Alec": 14566214,
+        "Alec": 14693264,
         "Alex": 289029903,
         "John": 12571641,
         "Jordan": 9955397,
@@ -1426,7 +1426,7 @@
         "the-backrooms": 63150370,
         "pressure": 4424625,
         "disclosure-day": 0,
-        "power-ballad": 0,
+        "power-ballad": 127050,
         "masters-of-the-universe": 0,
         "scary-movie-6": 0,
         "toy-story-5": 0,
@@ -1448,12 +1448,12 @@
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 673899748
+      "total": 674026798
     },
     {
       "date": "2026-05-31",
       "players": {
-        "Alec": 15391486,
+        "Alec": 15569367,
         "Alex": 323975734,
         "John": 13021748,
         "Jordan": 11342252,
@@ -1476,7 +1476,7 @@
         "the-backrooms": 81402424,
         "pressure": 5811480,
         "disclosure-day": 0,
-        "power-ballad": 0,
+        "power-ballad": 177881,
         "masters-of-the-universe": 0,
         "scary-movie-6": 0,
         "toy-story-5": 0,
@@ -1498,12 +1498,12 @@
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 715323880
+      "total": 715501761
     },
     {
       "date": "2026-06-01",
       "players": {
-        "Alec": 15771499,
+        "Alec": 15963986,
         "Alex": 339133198,
         "John": 13030222,
         "Jordan": 11888587,
@@ -1526,7 +1526,7 @@
         "the-backrooms": 89072024,
         "pressure": 6357815,
         "disclosure-day": 0,
-        "power-ballad": 0,
+        "power-ballad": 192487,
         "masters-of-the-universe": 0,
         "scary-movie-6": 0,
         "toy-story-5": 0,
@@ -1548,12 +1548,12 @@
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 732886651
+      "total": 733079138
     },
     {
       "date": "2026-06-02",
       "players": {
-        "Alec": 16286519,
+        "Alec": 16490853,
         "Alex": 356854144,
         "John": 13043682,
         "Jordan": 12725742,
@@ -1576,7 +1576,7 @@
         "the-backrooms": 97848566,
         "pressure": 7194970,
         "disclosure-day": 0,
-        "power-ballad": 0,
+        "power-ballad": 204334,
         "masters-of-the-universe": 0,
         "scary-movie-6": 0,
         "toy-story-5": 0,
@@ -1598,12 +1598,12 @@
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 754157218
+      "total": 754361552
     },
     {
       "date": "2026-06-03",
       "players": {
-        "Alec": 16652339,
+        "Alec": 16867477,
         "Alex": 369838725,
         "John": 13051939,
         "Jordan": 13248507,
@@ -1626,7 +1626,7 @@
         "the-backrooms": 103860498,
         "pressure": 7717735,
         "disclosure-day": 0,
-        "power-ballad": 0,
+        "power-ballad": 215138,
         "masters-of-the-universe": 0,
         "scary-movie-6": 0,
         "toy-story-5": 0,
@@ -1648,7 +1648,7 @@
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 769656254
+      "total": 769871392
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T11:00:33.075Z",
+  "lastUpdated": "2026-06-05T17:08:52.232Z",
   "movies": [
     {
       "id": "the-devil-wears-prada-2",
@@ -397,19 +397,28 @@
       "domesticgross": 0,
       "point_cost": 43,
       "dailychange": 0,
-      "revenueurl": "",
+      "revenueurl": "https://www.boxofficemojo.com/release/rl376274945",
       "source": ""
     },
     {
       "id": "power-ballad",
       "title": "Power Ballad",
       "owner": "Alec",
-      "releaseDate": "2026-06-05",
-      "domesticgross": 0,
+      "releaseDate": "2026-05-29",
+      "domesticgross": 215138,
       "point_cost": 7,
-      "dailychange": 0,
-      "revenueurl": "",
-      "source": ""
+      "dailychange": 10804,
+      "revenueurl": "https://www.boxofficemojo.com/release/rl3623059457",
+      "source": "boxofficemojo.com",
+      "history": {
+        "2026-05-29": 78493,
+        "2026-05-30": 127050,
+        "2026-05-31": 177881,
+        "2026-06-01": 192487,
+        "2026-06-02": 204334,
+        "2026-06-03": 215138
+      },
+      "lastRevenueDate": "2026-06-03"
     },
     {
       "id": "masters-of-the-universe",
@@ -419,7 +428,7 @@
       "domesticgross": 0,
       "point_cost": 9,
       "dailychange": 0,
-      "revenueurl": "",
+      "revenueurl": "https://www.boxofficemojo.com/release/rl973309441",
       "source": ""
     },
     {
@@ -430,7 +439,7 @@
       "domesticgross": 0,
       "point_cost": 8,
       "dailychange": 0,
-      "revenueurl": "",
+      "revenueurl": "https://www.boxofficemojo.com/release/rl4163403777",
       "source": ""
     },
     {
@@ -441,7 +450,7 @@
       "domesticgross": 0,
       "point_cost": 37,
       "dailychange": 0,
-      "revenueurl": "",
+      "revenueurl": "https://www.boxofficemojo.com/release/rl3344859137",
       "source": ""
     },
     {
@@ -452,7 +461,7 @@
       "domesticgross": 0,
       "point_cost": 5,
       "dailychange": 0,
-      "revenueurl": "",
+      "revenueurl": "https://www.boxofficemojo.com/release/rl3330441217",
       "source": ""
     },
     {
@@ -463,7 +472,7 @@
       "domesticgross": 0,
       "point_cost": 15,
       "dailychange": 0,
-      "revenueurl": "",
+      "revenueurl": "https://www.boxofficemojo.com/release/rl2710536193",
       "source": ""
     },
     {
@@ -474,7 +483,7 @@
       "domesticgross": 0,
       "point_cost": 17,
       "dailychange": 0,
-      "revenueurl": "",
+      "revenueurl": "https://www.boxofficemojo.com/release/rl3664281601",
       "source": ""
     },
     {
@@ -485,14 +494,14 @@
       "domesticgross": 0,
       "point_cost": 6,
       "dailychange": 0,
-      "revenueurl": "",
+      "revenueurl": "https://www.boxofficemojo.com/release/rl428507137",
       "source": ""
     },
     {
       "id": "i-want-your-sex",
       "title": "I Want Your Sex",
       "owner": "Brett",
-      "releaseDate": "2026-06-01",
+      "releaseDate": "2026-06-07",
       "domesticgross": 0,
       "point_cost": 4,
       "dailychange": 0,
@@ -507,29 +516,29 @@
       "domesticgross": 0,
       "point_cost": 24,
       "dailychange": 0,
-      "revenueurl": "",
+      "revenueurl": "https://www.boxofficemojo.com/release/rl779714561",
       "source": ""
     },
     {
       "id": "young-washington",
       "title": "Young Washington",
       "owner": "Cole",
-      "releaseDate": "2026-07-04",
+      "releaseDate": "2026-07-03",
       "domesticgross": 0,
       "point_cost": 15,
       "dailychange": 0,
-      "revenueurl": "",
+      "revenueurl": "https://www.boxofficemojo.com/release/rl1436123137",
       "source": ""
     },
     {
       "id": "evil-dead-burn",
       "title": "Evil Dead Burn",
       "owner": "Daniel",
-      "releaseDate": "2026-07-08",
+      "releaseDate": "2026-07-10",
       "domesticgross": 0,
       "point_cost": 8,
       "dailychange": 0,
-      "revenueurl": "",
+      "revenueurl": "https://www.boxofficemojo.com/release/rl1925480449",
       "source": ""
     },
     {
@@ -540,7 +549,7 @@
       "domesticgross": 0,
       "point_cost": 35,
       "dailychange": 0,
-      "revenueurl": "",
+      "revenueurl": "https://www.boxofficemojo.com/release/rl486245121",
       "source": ""
     },
     {
@@ -551,7 +560,7 @@
       "domesticgross": 0,
       "point_cost": 49,
       "dailychange": 0,
-      "revenueurl": "",
+      "revenueurl": "https://www.boxofficemojo.com/release/rl170295297",
       "source": ""
     },
     {
@@ -562,7 +571,7 @@
       "domesticgross": 0,
       "point_cost": 48,
       "dailychange": 0,
-      "revenueurl": "",
+      "revenueurl": "https://www.boxofficemojo.com/release/rl2299756545",
       "source": ""
     },
     {
@@ -573,7 +582,7 @@
       "domesticgross": 0,
       "point_cost": 7,
       "dailychange": 0,
-      "revenueurl": "",
+      "revenueurl": "https://www.boxofficemojo.com/release/rl2425651201",
       "source": ""
     },
     {
@@ -584,7 +593,7 @@
       "domesticgross": 0,
       "point_cost": 18,
       "dailychange": 0,
-      "revenueurl": "",
+      "revenueurl": "https://www.boxofficemojo.com/release/rl433750017",
       "source": ""
     },
     {
@@ -595,7 +604,7 @@
       "domesticgross": 0,
       "point_cost": 23,
       "dailychange": 0,
-      "revenueurl": "",
+      "revenueurl": "https://www.boxofficemojo.com/release/rl1468104705",
       "source": ""
     },
     {
@@ -606,7 +615,7 @@
       "domesticgross": 0,
       "point_cost": 26,
       "dailychange": 0,
-      "revenueurl": "",
+      "revenueurl": "https://www.boxofficemojo.com/release/rl4082532353",
       "source": ""
     },
     {
@@ -617,7 +626,7 @@
       "domesticgross": 0,
       "point_cost": 25,
       "dailychange": 0,
-      "revenueurl": "",
+      "revenueurl": "https://www.boxofficemojo.com/release/rl971538433",
       "source": ""
     },
     {
@@ -628,7 +637,7 @@
       "domesticgross": 0,
       "point_cost": 36,
       "dailychange": 0,
-      "revenueurl": "",
+      "revenueurl": "https://www.boxofficemojo.com/release/rl1134329857",
       "source": ""
     }
   ]

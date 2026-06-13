@@ -1855,7 +1855,7 @@
       "players": {
         "Alec": 19167551,
         "Alex": 451650295,
-        "John": 14376320,
+        "John": 14459046,
         "Jordan": 17199087,
         "Cole": 79168053,
         "Daniel": 306640948,
@@ -1871,7 +1871,7 @@
         "in-the-grey": 5723890,
         "star-wars-the-mandalorian-grogu": 156855061,
         "passenger": 17513357,
-        "i-love-boosters": 8652430,
+        "i-love-boosters": 8735156,
         "finding-emily": 0,
         "the-backrooms": 138661974,
         "pressure": 11635050,
@@ -1898,14 +1898,14 @@
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 956568076
+      "total": 956650802
     },
     {
       "date": "2026-06-09",
       "players": {
         "Alec": 19506558,
         "Alex": 462641597,
-        "John": 14376320,
+        "John": 14569899,
         "Jordan": 17806512,
         "Cole": 79239138,
         "Daniel": 310793936,
@@ -1921,7 +1921,7 @@
         "in-the-grey": 5723890,
         "star-wars-the-mandalorian-grogu": 158382333,
         "passenger": 17614244,
-        "i-love-boosters": 8652430,
+        "i-love-boosters": 8846009,
         "finding-emily": 0,
         "the-backrooms": 143038624,
         "pressure": 12242475,
@@ -1948,14 +1948,14 @@
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 978282517
+      "total": 978476096
     },
     {
       "date": "2026-06-10",
       "players": {
         "Alec": 19731550,
-        "Alex": 467949619,
-        "John": 14376320,
+        "Alex": 471100807,
+        "John": 14659690,
         "Jordan": 18218182,
         "Cole": 79290032,
         "Daniel": 313489145,
@@ -1971,9 +1971,9 @@
         "in-the-grey": 5723890,
         "star-wars-the-mandalorian-grogu": 159471900,
         "passenger": 17691589,
-        "i-love-boosters": 8652430,
+        "i-love-boosters": 8935800,
         "finding-emily": 0,
-        "the-backrooms": 143038624,
+        "the-backrooms": 146189812,
         "pressure": 12654145,
         "disclosure-day": 0,
         "power-ballad": 2039961,
@@ -1998,7 +1998,57 @@
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 990275967
+      "total": 993710525
+    },
+    {
+      "date": "2026-06-11",
+      "players": {
+        "Alec": 19862841,
+        "Alex": 478529106,
+        "John": 14718953,
+        "Jordan": 18488542,
+        "Cole": 79326044,
+        "Daniel": 315556018,
+        "Brett": 79992127
+      },
+      "movies": {
+        "the-devil-wears-prada-2": 216518386,
+        "animal-farm": 5564037,
+        "mortal-kombat-ii": 79326044,
+        "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d": 9901485,
+        "the-sheep-detectives": 60975535,
+        "obsession": 169382965,
+        "in-the-grey": 5723890,
+        "star-wars-the-mandalorian-grogu": 160372355,
+        "passenger": 17741020,
+        "i-love-boosters": 8995063,
+        "finding-emily": 0,
+        "the-backrooms": 148773786,
+        "pressure": 12924505,
+        "disclosure-day": 0,
+        "power-ballad": 2121821,
+        "masters-of-the-universe": 38062097,
+        "scary-movie-6": 70090642,
+        "toy-story-5": 0,
+        "girls-like-girls": 0,
+        "the-death-of-robin-hood": 0,
+        "supergirl-woman-of-tomorrow": 0,
+        "jackass-5-best-and-last": 0,
+        "i-want-your-sex": 0,
+        "minions-monsters": 0,
+        "young-washington": 0,
+        "evil-dead-burn": 0,
+        "moana-live-action": 0,
+        "the-odyssey": 0,
+        "spider-man-brand-new-day": 0,
+        "teenage-sex-and-death-at-camp-miasma": 0,
+        "one-night-only": 0,
+        "super-troopers-3": 0,
+        "paw-patrol-the-dino-movie": 0,
+        "cliffhanger": 0,
+        "the-furious": 0
+      },
+      "total": 1006473631
     }
   ]
 }

@@ -4057,7 +4057,7 @@
         "Alex": 633896597,
         "John": 161255307,
         "Jordan": 136504132,
-        "Cole": 239153362,
+        "Cole": 239353976,
         "Daniel": 816554512,
         "Brett": 322671573
       },
@@ -4086,7 +4086,7 @@
         "jackass-5-best-and-last": 18140345,
         "i-want-your-sex": 0,
         "minions-monsters": 145788350,
-        "young-washington": 42770644,
+        "young-washington": 42971258,
         "evil-dead-burn": 26574454,
         "moana-live-action": 91969653,
         "the-odyssey": 199371800,
@@ -4098,7 +4098,57 @@
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 2404269809
+      "total": 2404470423
+    },
+    {
+      "date": "2026-07-24",
+      "players": {
+        "Alec": 94414326,
+        "Alex": 634490677,
+        "John": 164105307,
+        "Jordan": 136684132,
+        "Cole": 243047588,
+        "Daniel": 820254512,
+        "Brett": 348644415
+      },
+      "movies": {
+        "the-devil-wears-prada-2": 220556651,
+        "animal-farm": 5588982,
+        "mortal-kombat-ii": 79770110,
+        "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d": 9901485,
+        "the-sheep-detectives": 66078506,
+        "obsession": 260344235,
+        "in-the-grey": 5723890,
+        "star-wars-the-mandalorian-grogu": 177617995,
+        "passenger": 18041122,
+        "i-love-boosters": 9743067,
+        "finding-emily": 0,
+        "the-backrooms": 196528447,
+        "pressure": 15569855,
+        "disclosure-day": 115525295,
+        "power-ballad": 2612490,
+        "masters-of-the-universe": 64789243,
+        "scary-movie-6": 108132542,
+        "toy-story-5": 441455658,
+        "girls-like-girls": 2735660,
+        "the-death-of-robin-hood": 5298588,
+        "supergirl-woman-of-tomorrow": 71025054,
+        "jackass-5-best-and-last": 18167345,
+        "i-want-your-sex": 0,
+        "minions-monsters": 148638350,
+        "young-washington": 43537870,
+        "evil-dead-burn": 27374454,
+        "moana-live-action": 95069653,
+        "the-odyssey": 225311800,
+        "spider-man-brand-new-day": 0,
+        "teenage-sex-and-death-at-camp-miasma": 0,
+        "one-night-only": 0,
+        "super-troopers-3": 0,
+        "paw-patrol-the-dino-movie": 0,
+        "cliffhanger": 0,
+        "the-furious": 6502610
+      },
+      "total": 2441640957
     }
   ]
 }

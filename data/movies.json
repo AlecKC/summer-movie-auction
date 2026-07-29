@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T10:16:09.609Z",
+  "lastUpdated": "2026-07-29T10:21:48.436Z",
   "movies": [
     {
       "id": "the-devil-wears-prada-2",
@@ -356,9 +356,9 @@
       "title": "Obsession",
       "owner": "Alex",
       "releaseDate": "2026-05-15",
-      "domesticgross": 261411700,
+      "domesticgross": 261647945,
       "point_cost": 7,
-      "dailychange": 440175,
+      "dailychange": 236245,
       "revenueurl": "https://www.boxofficemojo.com/release/rl1660846081",
       "source": "boxofficemojo.com",
       "history": {
@@ -432,9 +432,10 @@
         "2026-07-23": 259864235,
         "2026-07-24": 260345640,
         "2026-07-25": 260971525,
-        "2026-07-26": 261411700
+        "2026-07-26": 261411700,
+        "2026-07-27": 261647945
       },
-      "lastRevenueDate": "2026-07-26"
+      "lastRevenueDate": "2026-07-27"
     },
     {
       "id": "in-the-grey",
@@ -475,9 +476,9 @@
       "title": "Star Wars: The Mandalorian & Grogu",
       "owner": "Alex",
       "releaseDate": "2026-05-22",
-      "domesticgross": 177664014,
+      "domesticgross": 177675884,
       "point_cost": 35,
-      "dailychange": 19423,
+      "dailychange": 11870,
       "revenueurl": "https://www.boxofficemojo.com/release/rl3294527489",
       "source": "boxofficemojo.com",
       "history": {
@@ -544,9 +545,10 @@
         "2026-07-23": 177594995,
         "2026-07-24": 177617286,
         "2026-07-25": 177644591,
-        "2026-07-26": 177664014
+        "2026-07-26": 177664014,
+        "2026-07-27": 177675884
       },
-      "lastRevenueDate": "2026-07-26"
+      "lastRevenueDate": "2026-07-27"
     },
     {
       "id": "passenger",
@@ -797,9 +799,9 @@
       "title": "Disclosure Day",
       "owner": "Jordan",
       "releaseDate": "2026-06-12",
-      "domesticgross": 116009890,
+      "domesticgross": 116096830,
       "point_cost": 43,
-      "dailychange": 205015,
+      "dailychange": 86940,
       "revenueurl": "https://www.boxofficemojo.com/release/rl376274945",
       "source": "boxofficemojo.com",
       "history": {
@@ -846,9 +848,10 @@
         "2026-07-23": 115345295,
         "2026-07-24": 115528500,
         "2026-07-25": 115804875,
-        "2026-07-26": 116009890
+        "2026-07-26": 116009890,
+        "2026-07-27": 116096830
       },
-      "lastRevenueDate": "2026-07-26"
+      "lastRevenueDate": "2026-07-27"
     },
     {
       "id": "power-ballad",
@@ -897,9 +900,9 @@
       "title": "Masters of the Universe",
       "owner": "Daniel",
       "releaseDate": "2026-06-05",
-      "domesticgross": 64816437,
+      "domesticgross": 64819692,
       "point_cost": 9,
-      "dailychange": 8186,
+      "dailychange": 3255,
       "revenueurl": "https://www.boxofficemojo.com/release/rl973309441",
       "source": "boxofficemojo.com",
       "history": {
@@ -953,18 +956,19 @@
         "2026-07-23": 64789243,
         "2026-07-24": 64796729,
         "2026-07-25": 64808251,
-        "2026-07-26": 64816437
+        "2026-07-26": 64816437,
+        "2026-07-27": 64819692
       },
-      "lastRevenueDate": "2026-07-26"
+      "lastRevenueDate": "2026-07-27"
     },
     {
       "id": "scary-movie-6",
       "title": "Scary Movie 6",
       "owner": "Brett",
       "releaseDate": "2026-06-05",
-      "domesticgross": 108229179,
+      "domesticgross": 108243408,
       "point_cost": 8,
-      "dailychange": 31150,
+      "dailychange": 14229,
       "revenueurl": "https://www.boxofficemojo.com/release/rl4163403777",
       "source": "boxofficemojo.com",
       "history": {
@@ -1018,18 +1022,19 @@
         "2026-07-23": 108103542,
         "2026-07-24": 108143285,
         "2026-07-25": 108198029,
-        "2026-07-26": 108229179
+        "2026-07-26": 108229179,
+        "2026-07-27": 108243408
       },
-      "lastRevenueDate": "2026-07-26"
+      "lastRevenueDate": "2026-07-27"
     },
     {
       "id": "toy-story-5",
       "title": "Toy Story 5",
       "owner": "Daniel",
       "releaseDate": "2026-06-19",
-      "domesticgross": 448716909,
+      "domesticgross": 450132165,
       "point_cost": 37,
-      "dailychange": 3068163,
+      "dailychange": 1415256,
       "revenueurl": "https://www.boxofficemojo.com/release/rl3344859137",
       "source": "boxofficemojo.com",
       "history": {
@@ -1069,9 +1074,10 @@
         "2026-07-23": 438555658,
         "2026-07-24": 441563664,
         "2026-07-25": 445648746,
-        "2026-07-26": 448716909
+        "2026-07-26": 448716909,
+        "2026-07-27": 450132165
       },
-      "lastRevenueDate": "2026-07-26"
+      "lastRevenueDate": "2026-07-27"
     },
     {
       "id": "girls-like-girls",
@@ -1157,9 +1163,9 @@
       "title": "Supergirl: Woman of Tomorrow",
       "owner": "Alec",
       "releaseDate": "2026-06-26",
-      "domesticgross": 71626570,
+      "domesticgross": 71712685,
       "point_cost": 17,
-      "dailychange": 207386,
+      "dailychange": 86115,
       "revenueurl": "https://www.boxofficemojo.com/release/rl3664281601",
       "source": "boxofficemojo.com",
       "history": {
@@ -1192,18 +1198,19 @@
         "2026-07-23": 70845054,
         "2026-07-24": 71140672,
         "2026-07-25": 71419184,
-        "2026-07-26": 71626570
+        "2026-07-26": 71626570,
+        "2026-07-27": 71712685
       },
-      "lastRevenueDate": "2026-07-26"
+      "lastRevenueDate": "2026-07-27"
     },
     {
       "id": "jackass-5-best-and-last",
       "title": "Jackass 5: Best and Last",
       "owner": "Cole",
       "releaseDate": "2026-06-26",
-      "domesticgross": 18228607,
+      "domesticgross": 18240303,
       "point_cost": 6,
-      "dailychange": 24209,
+      "dailychange": 11696,
       "revenueurl": "https://www.boxofficemojo.com/release/rl428507137",
       "source": "boxofficemojo.com",
       "history": {
@@ -1236,9 +1243,10 @@
         "2026-07-23": 18140345,
         "2026-07-24": 18169659,
         "2026-07-25": 18204398,
-        "2026-07-26": 18228607
+        "2026-07-26": 18228607,
+        "2026-07-27": 18240303
       },
-      "lastRevenueDate": "2026-07-26"
+      "lastRevenueDate": "2026-07-27"
     },
     {
       "id": "i-want-your-sex",
@@ -1256,9 +1264,9 @@
       "title": "Minions & Monsters",
       "owner": "John",
       "releaseDate": "2026-07-01",
-      "domesticgross": 155542875,
+      "domesticgross": 157010220,
       "point_cost": 24,
-      "dailychange": 3002760,
+      "dailychange": 1467345,
       "revenueurl": "https://www.boxofficemojo.com/release/rl779714561",
       "source": "boxofficemojo.com",
       "history": {
@@ -1286,18 +1294,19 @@
         "2026-07-23": 145788350,
         "2026-07-24": 148690210,
         "2026-07-25": 152540115,
-        "2026-07-26": 155542875
+        "2026-07-26": 155542875,
+        "2026-07-27": 157010220
       },
-      "lastRevenueDate": "2026-07-26"
+      "lastRevenueDate": "2026-07-27"
     },
     {
       "id": "young-washington",
       "title": "Young Washington",
       "owner": "Cole",
       "releaseDate": "2026-07-03",
-      "domesticgross": 44875964,
+      "domesticgross": 45128319,
       "point_cost": 15,
-      "dailychange": 537715,
+      "dailychange": 252355,
       "revenueurl": "https://www.boxofficemojo.com/release/rl1436123137",
       "source": "boxofficemojo.com",
       "history": {
@@ -1323,18 +1332,19 @@
         "2026-07-23": 42971258,
         "2026-07-24": 43537870,
         "2026-07-25": 44338249,
-        "2026-07-26": 44875964
+        "2026-07-26": 44875964,
+        "2026-07-27": 45128319
       },
-      "lastRevenueDate": "2026-07-26"
+      "lastRevenueDate": "2026-07-27"
     },
     {
       "id": "evil-dead-burn",
       "title": "Evil Dead Burn",
       "owner": "Daniel",
       "releaseDate": "2026-07-10",
-      "domesticgross": 29376642,
+      "domesticgross": 29752963,
       "point_cost": 8,
-      "dailychange": 829034,
+      "dailychange": 376321,
       "revenueurl": "https://www.boxofficemojo.com/release/rl1925480449",
       "source": "boxofficemojo.com",
       "history": {
@@ -1354,18 +1364,19 @@
         "2026-07-23": 26574454,
         "2026-07-24": 27406252,
         "2026-07-25": 28547608,
-        "2026-07-26": 29376642
+        "2026-07-26": 29376642,
+        "2026-07-27": 29752963
       },
-      "lastRevenueDate": "2026-07-26"
+      "lastRevenueDate": "2026-07-27"
     },
     {
       "id": "moana-live-action",
       "title": "Moana (Live-Action)",
       "owner": "Cole",
       "releaseDate": "2026-07-10",
-      "domesticgross": 102609900,
+      "domesticgross": 104066297,
       "point_cost": 35,
-      "dailychange": 3150153,
+      "dailychange": 1456397,
       "revenueurl": "https://www.boxofficemojo.com/release/rl486245121",
       "source": "boxofficemojo.com",
       "history": {
@@ -1385,18 +1396,19 @@
         "2026-07-23": 91969653,
         "2026-07-24": 95204712,
         "2026-07-25": 99459747,
-        "2026-07-26": 102609900
+        "2026-07-26": 102609900,
+        "2026-07-27": 104066297
       },
-      "lastRevenueDate": "2026-07-26"
+      "lastRevenueDate": "2026-07-27"
     },
     {
       "id": "the-odyssey",
       "title": "The Odyssey",
       "owner": "Brett",
       "releaseDate": "2026-07-17",
-      "domesticgross": 289394310,
+      "domesticgross": 304112215,
       "point_cost": 49,
-      "dailychange": 29778295,
+      "dailychange": 14717905,
       "revenueurl": "https://www.boxofficemojo.com/release/rl170295297",
       "source": "boxofficemojo.com",
       "history": {
@@ -1409,9 +1421,10 @@
         "2026-07-23": 199371800,
         "2026-07-24": 225048680,
         "2026-07-25": 259616015,
-        "2026-07-26": 289394310
+        "2026-07-26": 289394310,
+        "2026-07-27": 304112215
       },
-      "lastRevenueDate": "2026-07-26"
+      "lastRevenueDate": "2026-07-27"
     },
     {
       "id": "spider-man-brand-new-day",

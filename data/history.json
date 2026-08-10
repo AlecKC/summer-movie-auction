@@ -1,10 +1,60 @@
 {
   "snapshots": [
     {
+      "date": "2009-08-07",
+      "players": {
+        "Alec": 0,
+        "Alex": 1,
+        "John": 0,
+        "Jordan": 0,
+        "Cole": 0,
+        "Daniel": 0,
+        "Brett": 0
+      },
+      "movies": {
+        "the-devil-wears-prada-2": 0,
+        "animal-farm": 0,
+        "mortal-kombat-ii": 0,
+        "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d": 0,
+        "the-sheep-detectives": 0,
+        "obsession": 0,
+        "in-the-grey": 0,
+        "star-wars-the-mandalorian-grogu": 0,
+        "passenger": 0,
+        "i-love-boosters": 0,
+        "finding-emily": 0,
+        "the-backrooms": 0,
+        "pressure": 0,
+        "disclosure-day": 0,
+        "power-ballad": 0,
+        "masters-of-the-universe": 0,
+        "scary-movie-6": 0,
+        "toy-story-5": 0,
+        "girls-like-girls": 0,
+        "the-death-of-robin-hood": 0,
+        "supergirl-woman-of-tomorrow": 0,
+        "jackass-5-best-and-last": 0,
+        "i-want-your-sex": 0,
+        "minions-monsters": 0,
+        "young-washington": 0,
+        "evil-dead-burn": 0,
+        "moana-live-action": 0,
+        "the-odyssey": 0,
+        "spider-man-brand-new-day": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
+        "one-night-only": 0,
+        "super-troopers-3": 0,
+        "paw-patrol-the-dino-movie": 0,
+        "cliffhanger": 0,
+        "the-furious": 0
+      },
+      "total": 1
+    },
+    {
       "date": "2026-05-01",
       "players": {
         "Alec": 0,
-        "Alex": 0,
+        "Alex": 1,
         "John": 0,
         "Jordan": 1145988,
         "Cole": 0,
@@ -41,20 +91,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 34046072
+      "total": 34046073
     },
     {
       "date": "2026-05-02",
       "players": {
         "Alec": 0,
-        "Alex": 0,
+        "Alex": 1,
         "John": 0,
         "Jordan": 2450454,
         "Cole": 0,
@@ -91,20 +141,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 60456078
+      "total": 60456079
     },
     {
       "date": "2026-05-03",
       "players": {
         "Alec": 0,
-        "Alex": 0,
+        "Alex": 1,
         "John": 0,
         "Jordan": 3301363,
         "Cole": 0,
@@ -141,20 +191,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 80048438
+      "total": 80048439
     },
     {
       "date": "2026-05-04",
       "players": {
         "Alec": 0,
-        "Alex": 0,
+        "Alex": 1,
         "John": 0,
         "Jordan": 3540829,
         "Cole": 0,
@@ -191,20 +241,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 85985046
+      "total": 85985047
     },
     {
       "date": "2026-05-05",
       "players": {
         "Alec": 0,
-        "Alex": 0,
+        "Alex": 1,
         "John": 0,
         "Jordan": 3891255,
         "Cole": 0,
@@ -241,20 +291,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 94599878
+      "total": 94599879
     },
     {
       "date": "2026-05-06",
       "players": {
         "Alec": 0,
-        "Alex": 0,
+        "Alex": 1,
         "John": 0,
         "Jordan": 4155712,
         "Cole": 0,
@@ -291,20 +341,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 100800996
+      "total": 100800997
     },
     {
       "date": "2026-05-07",
       "players": {
         "Alec": 0,
-        "Alex": 0,
+        "Alex": 1,
         "John": 0,
         "Jordan": 4336753,
         "Cole": 0,
@@ -341,20 +391,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 106181011
+      "total": 106181012
     },
     {
       "date": "2026-05-08",
       "players": {
         "Alec": 0,
-        "Alex": 0,
+        "Alex": 1,
         "John": 0,
         "Jordan": 4520457,
         "Cole": 16801022,
@@ -391,20 +441,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 141584855
+      "total": 141584856
     },
     {
       "date": "2026-05-09",
       "players": {
         "Alec": 0,
-        "Alex": 0,
+        "Alex": 1,
         "John": 0,
         "Jordan": 4807962,
         "Cole": 30099079,
@@ -441,20 +491,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 177522795
+      "total": 177522796
     },
     {
       "date": "2026-05-10",
       "players": {
         "Alec": 0,
-        "Alex": 0,
+        "Alex": 1,
         "John": 0,
         "Jordan": 5040903,
         "Cole": 38501177,
@@ -491,20 +541,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 209088431
+      "total": 209088432
     },
     {
       "date": "2026-05-11",
       "players": {
         "Alec": 0,
-        "Alex": 0,
+        "Alex": 1,
         "John": 0,
         "Jordan": 5110142,
         "Cole": 41254042,
@@ -541,20 +591,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 216809949
+      "total": 216809950
     },
     {
       "date": "2026-05-12",
       "players": {
         "Alec": 0,
-        "Alex": 0,
+        "Alex": 1,
         "John": 0,
         "Jordan": 5211574,
         "Cole": 44959252,
@@ -591,20 +641,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 227710124
+      "total": 227710125
     },
     {
       "date": "2026-05-13",
       "players": {
         "Alec": 0,
-        "Alex": 0,
+        "Alex": 1,
         "John": 0,
         "Jordan": 5286212,
         "Cole": 46961410,
@@ -641,20 +691,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 234551039
+      "total": 234551040
     },
     {
       "date": "2026-05-14",
       "players": {
         "Alec": 0,
-        "Alex": 0,
+        "Alex": 1,
         "John": 0,
         "Jordan": 5340130,
         "Cole": 48832532,
@@ -691,20 +741,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 240871065
+      "total": 240871066
     },
     {
       "date": "2026-05-15",
       "players": {
         "Alec": 0,
-        "Alex": 6977085,
+        "Alex": 6977086,
         "John": 1171749,
         "Jordan": 5377765,
         "Cole": 52382817,
@@ -741,20 +791,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 260677975
+      "total": 260677976
     },
     {
       "date": "2026-05-16",
       "players": {
         "Alec": 0,
-        "Alex": 12393995,
+        "Alex": 12393996,
         "John": 2205536,
         "Jordan": 5408150,
         "Cole": 58102960,
@@ -791,20 +841,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 284452396
+      "total": 284452397
     },
     {
       "date": "2026-05-17",
       "players": {
         "Alec": 0,
-        "Alex": 17196855,
+        "Alex": 17196856,
         "John": 2926879,
         "Jordan": 5429212,
         "Cole": 62233170,
@@ -841,20 +891,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 302823616
+      "total": 302823617
     },
     {
       "date": "2026-05-18",
       "players": {
         "Alec": 0,
-        "Alex": 20106720,
+        "Alex": 20106721,
         "John": 3207772,
         "Jordan": 5441996,
         "Cole": 63414693,
@@ -891,20 +941,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 310421103
+      "total": 310421104
     },
     {
       "date": "2026-05-19",
       "players": {
         "Alec": 0,
-        "Alex": 23750980,
+        "Alex": 23750981,
         "John": 3656760,
         "Jordan": 5457039,
         "Cole": 64872756,
@@ -941,20 +991,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 320234472
+      "total": 320234473
     },
     {
       "date": "2026-05-20",
       "players": {
         "Alec": 0,
-        "Alex": 26986955,
+        "Alex": 26986956,
         "John": 3938697,
         "Jordan": 5472124,
         "Cole": 65832933,
@@ -991,20 +1041,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 327614378
+      "total": 327614379
     },
     {
       "date": "2026-05-21",
       "players": {
         "Alec": 0,
-        "Alex": 30384010,
+        "Alex": 30384011,
         "John": 4106961,
         "Jordan": 5481167,
         "Cole": 66596785,
@@ -1041,20 +1091,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 334533175
+      "total": 334533176
     },
     {
       "date": "2026-05-22",
       "players": {
         "Alec": 3522058,
-        "Alex": 70262505,
+        "Alex": 70262506,
         "John": 5839757,
         "Jordan": 5494892,
         "Cole": 68057162,
@@ -1091,20 +1141,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 386403053
+      "total": 386403054
     },
     {
       "date": "2026-05-23",
       "players": {
         "Alec": 6283834,
-        "Alex": 104742693,
+        "Alex": 104742694,
         "John": 7374819,
         "Jordan": 5499593,
         "Cole": 70467329,
@@ -1141,20 +1191,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 436089954
+      "total": 436089955
     },
     {
       "date": "2026-05-24",
       "players": {
         "Alec": 8746797,
-        "Alex": 136016783,
+        "Alex": 136016784,
         "John": 8823303,
         "Jordan": 5503004,
         "Cole": 72667614,
@@ -1191,20 +1241,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 481633917
+      "total": 481633918
     },
     {
       "date": "2026-05-26",
       "players": {
         "Alec": 11426922,
-        "Alex": 172519091,
+        "Alex": 172519092,
         "John": 10703096,
         "Jordan": 5514843,
         "Cole": 74905242,
@@ -1241,20 +1291,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 534350585
+      "total": 534350586
     },
     {
       "date": "2026-05-27",
       "players": {
         "Alec": 12186790,
-        "Alex": 182347933,
+        "Alex": 182347934,
         "John": 11242546,
         "Jordan": 5527103,
         "Cole": 75426256,
@@ -1291,20 +1341,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 548232892
+      "total": 548232893
     },
     {
       "date": "2026-05-28",
       "players": {
         "Alec": 12669276,
-        "Alex": 190726254,
+        "Alex": 190726255,
         "John": 11589516,
         "Jordan": 5530772,
         "Cole": 75767462,
@@ -1341,20 +1391,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 559540168
+      "total": 559540169
     },
     {
       "date": "2026-05-29",
       "players": {
         "Alec": 13595961,
-        "Alex": 243863948,
+        "Alex": 243863949,
         "John": 12017324,
         "Jordan": 8025255,
         "Cole": 76297984,
@@ -1391,20 +1441,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 620057216
+      "total": 620057217
     },
     {
       "date": "2026-05-30",
       "players": {
         "Alec": 14693264,
-        "Alex": 289029903,
+        "Alex": 289029904,
         "John": 12571641,
         "Jordan": 9970258,
         "Cole": 77118288,
@@ -1441,20 +1491,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 674041659
+      "total": 674041660
     },
     {
       "date": "2026-05-31",
       "players": {
         "Alec": 15569367,
-        "Alex": 323975734,
+        "Alex": 323975735,
         "John": 13021748,
         "Jordan": 11359120,
         "Cole": 77768486,
@@ -1491,20 +1541,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 715518629
+      "total": 715518630
     },
     {
       "date": "2026-06-01",
       "players": {
         "Alec": 15963986,
-        "Alex": 339133198,
+        "Alex": 339133199,
         "John": 13231822,
         "Jordan": 11907700,
         "Cole": 78003138,
@@ -1541,20 +1591,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 733299851
+      "total": 733299852
     },
     {
       "date": "2026-06-02",
       "players": {
         "Alec": 16490853,
-        "Alex": 356854144,
+        "Alex": 356854145,
         "John": 13519458,
         "Jordan": 12748027,
         "Cole": 78312564,
@@ -1591,20 +1641,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 754859613
+      "total": 754859614
     },
     {
       "date": "2026-06-03",
       "players": {
         "Alec": 16867477,
-        "Alex": 369838725,
+        "Alex": 369838726,
         "John": 13744314,
         "Jordan": 13277892,
         "Cole": 78525685,
@@ -1641,20 +1691,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 770593152
+      "total": 770593153
     },
     {
       "date": "2026-06-04",
       "players": {
         "Alec": 17026822,
-        "Alex": 381469204,
+        "Alex": 381469205,
         "John": 13879018,
         "Jordan": 13716577,
         "Cole": 78628663,
@@ -1691,20 +1741,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 783970758
+      "total": 783970759
     },
     {
       "date": "2026-06-05",
       "players": {
         "Alec": 17750122,
-        "Alex": 399506174,
+        "Alex": 399506175,
         "John": 14021007,
         "Jordan": 14483036,
         "Cole": 78746418,
@@ -1741,20 +1791,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 841649991
+      "total": 841649992
     },
     {
       "date": "2026-06-06",
       "players": {
         "Alec": 18469183,
-        "Alex": 423929100,
+        "Alex": 423929101,
         "John": 14214112,
         "Jordan": 15848481,
         "Cole": 78955704,
@@ -1791,20 +1841,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 898265815
+      "total": 898265816
     },
     {
       "date": "2026-06-07",
       "players": {
         "Alec": 18948830,
-        "Alex": 443077677,
+        "Alex": 443077678,
         "John": 14376320,
         "Jordan": 16819286,
         "Cole": 79113721,
@@ -1841,20 +1891,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 940426629
+      "total": 940426630
     },
     {
       "date": "2026-06-08",
       "players": {
         "Alec": 19167551,
-        "Alex": 451650295,
+        "Alex": 451650296,
         "John": 14459046,
         "Jordan": 17204702,
         "Cole": 79168053,
@@ -1891,20 +1941,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 956656417
+      "total": 956656418
     },
     {
       "date": "2026-06-09",
       "players": {
         "Alec": 19506558,
-        "Alex": 462641597,
+        "Alex": 462641598,
         "John": 14569899,
         "Jordan": 17816223,
         "Cole": 79239138,
@@ -1941,20 +1991,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 978485807
+      "total": 978485808
     },
     {
       "date": "2026-06-10",
       "players": {
         "Alec": 19731550,
-        "Alex": 471100807,
+        "Alex": 471100808,
         "John": 14659690,
         "Jordan": 18229463,
         "Cole": 79290032,
@@ -1991,20 +2041,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 993721806
+      "total": 993721807
     },
     {
       "date": "2026-06-11",
       "players": {
         "Alec": 19862841,
-        "Alex": 478529106,
+        "Alex": 478529107,
         "John": 14718953,
         "Jordan": 18501090,
         "Cole": 79326044,
@@ -2041,20 +2091,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 0
       },
-      "total": 1006486179
+      "total": 1006486180
     },
     {
       "date": "2026-06-12",
       "players": {
         "Alec": 20011530,
-        "Alex": 489737313,
+        "Alex": 489737314,
         "John": 14789695,
         "Jordan": 37996843,
         "Cole": 80768809,
@@ -2091,20 +2141,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 1390275
       },
-      "total": 1046970706
+      "total": 1046970707
     },
     {
       "date": "2026-06-13",
       "players": {
         "Alec": 20203178,
-        "Alex": 502936043,
+        "Alex": 502936044,
         "John": 14859730,
         "Jordan": 52316803,
         "Cole": 81599060,
@@ -2141,20 +2191,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 2153457
       },
-      "total": 1085666920
+      "total": 1085666921
     },
     {
       "date": "2026-06-14",
       "players": {
         "Alec": 20344320,
-        "Alex": 513863418,
+        "Alex": 513863419,
         "John": 14928363,
         "Jordan": 64188948,
         "Cole": 82308018,
@@ -2191,20 +2241,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 2805717
       },
-      "total": 1117085246
+      "total": 1117085247
     },
     {
       "date": "2026-06-15",
       "players": {
         "Alec": 20413556,
-        "Alex": 519397017,
+        "Alex": 519397018,
         "John": 14968171,
         "Jordan": 68550708,
         "Cole": 82647715,
@@ -2241,20 +2291,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 3121220
       },
-      "total": 1130422442
+      "total": 1130422443
     },
     {
       "date": "2026-06-16",
       "players": {
         "Alec": 20509410,
-        "Alex": 526376614,
+        "Alex": 526376615,
         "John": 15019523,
         "Jordan": 74601457,
         "Cole": 83126055,
@@ -2291,20 +2341,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 3568817
       },
-      "total": 1148283488
+      "total": 1148283489
     },
     {
       "date": "2026-06-17",
       "players": {
         "Alec": 20586955,
-        "Alex": 532163152,
+        "Alex": 532163153,
         "John": 15088335,
         "Jordan": 78607767,
         "Cole": 83490568,
@@ -2341,20 +2391,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 3911465
       },
-      "total": 1161682878
+      "total": 1161682879
     },
     {
       "date": "2026-06-18",
       "players": {
         "Alec": 20631900,
-        "Alex": 537379706,
+        "Alex": 537379707,
         "John": 15115860,
         "Jordan": 81673007,
         "Cole": 83735577,
@@ -2391,20 +2441,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 4140543
       },
-      "total": 1172832717
+      "total": 1172832718
     },
     {
       "date": "2026-06-19",
       "players": {
         "Alec": 21558630,
-        "Alex": 545758863,
+        "Alex": 545758864,
         "John": 15146250,
         "Jordan": 86738492,
         "Cole": 84069359,
@@ -2441,20 +2491,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 4456417
       },
-      "total": 1264028219
+      "total": 1264028220
     },
     {
       "date": "2026-06-20",
       "players": {
         "Alec": 21956724,
-        "Alex": 555177598,
+        "Alex": 555177599,
         "John": 15174513,
         "Jordan": 93041452,
         "Cole": 84498292,
@@ -2491,20 +2541,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 4862888
       },
-      "total": 1334326465
+      "total": 1334326466
     },
     {
       "date": "2026-06-21",
       "players": {
         "Alec": 22158030,
-        "Alex": 562123939,
+        "Alex": 562123940,
         "John": 15199383,
         "Jordan": 99723227,
         "Cole": 84919147,
@@ -2541,20 +2591,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 5265007
       },
-      "total": 1395225962
+      "total": 1395225963
     },
     {
       "date": "2026-06-22",
       "players": {
         "Alec": 22348205,
-        "Alex": 566149322,
+        "Alex": 566149323,
         "John": 15212565,
         "Jordan": 101673002,
         "Cole": 85063252,
@@ -2591,20 +2641,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 5402166
       },
-      "total": 1420862163
+      "total": 1420862164
     },
     {
       "date": "2026-06-23",
       "players": {
         "Alec": 22564011,
-        "Alex": 570850912,
+        "Alex": 570850913,
         "John": 15229438,
         "Jordan": 104184807,
         "Cole": 85269252,
@@ -2641,20 +2691,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 5600015
       },
-      "total": 1454751629
+      "total": 1454751630
     },
     {
       "date": "2026-06-24",
       "players": {
         "Alec": 22722616,
-        "Alex": 574467295,
+        "Alex": 574467296,
         "John": 15240405,
         "Jordan": 105812052,
         "Cole": 85404161,
@@ -2691,20 +2741,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 5725286
       },
-      "total": 1476019518
+      "total": 1476019519
     },
     {
       "date": "2026-06-25",
       "players": {
         "Alec": 22814137,
-        "Alex": 577627204,
+        "Alex": 577627205,
         "John": 15251152,
         "Jordan": 107208582,
         "Cole": 85487311,
@@ -2741,20 +2791,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 5801933
       },
-      "total": 1494677668
+      "total": 1494677669
     },
     {
       "date": "2026-06-26",
       "players": {
         "Alec": 41318991,
-        "Alex": 582467957,
+        "Alex": 582467958,
         "John": 15270408,
         "Jordan": 109591692,
         "Cole": 89376469,
@@ -2791,20 +2841,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 5880986
       },
-      "total": 1547790582
+      "total": 1547790583
     },
     {
       "date": "2026-06-27",
       "players": {
         "Alec": 52233213,
-        "Alex": 588737361,
+        "Alex": 588737362,
         "John": 15291000,
         "Jordan": 113050937,
         "Cole": 92147121,
@@ -2841,20 +2891,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6001283
       },
-      "total": 1601485825
+      "total": 1601485826
     },
     {
       "date": "2026-06-28",
       "players": {
         "Alec": 60235430,
-        "Alex": 593466142,
+        "Alex": 593466143,
         "John": 15305862,
         "Jordan": 115611322,
         "Cole": 94272362,
@@ -2891,20 +2941,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6098997
       },
-      "total": 1642826142
+      "total": 1642826143
     },
     {
       "date": "2026-06-29",
       "players": {
         "Alec": 63210589,
-        "Alex": 595912464,
+        "Alex": 595912465,
         "John": 15314374,
         "Jordan": 116592397,
         "Cole": 95189536,
@@ -2941,20 +2991,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6143061
       },
-      "total": 1659173668
+      "total": 1659173669
     },
     {
       "date": "2026-06-30",
       "players": {
         "Alec": 67720726,
-        "Alex": 598837313,
+        "Alex": 598837314,
         "John": 15323727,
         "Jordan": 118048642,
         "Cole": 96257696,
@@ -2991,20 +3041,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6207084
       },
-      "total": 1682911662
+      "total": 1682911663
     },
     {
       "date": "2026-07-01",
       "players": {
         "Alec": 69914593,
-        "Alex": 600967023,
+        "Alex": 600967024,
         "John": 29563826,
         "Jordan": 119144537,
         "Cole": 97025739,
@@ -3041,20 +3091,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6236098
       },
-      "total": 1711855302
+      "total": 1711855303
     },
     {
       "date": "2026-07-02",
       "players": {
         "Alec": 72260882,
-        "Alex": 603419685,
+        "Alex": 603419686,
         "John": 40386125,
         "Jordan": 120470722,
         "Cole": 97982270,
@@ -3091,20 +3141,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6269680
       },
-      "total": 1739061924
+      "total": 1739061925
     },
     {
       "date": "2026-07-03",
       "players": {
         "Alec": 75867301,
-        "Alex": 607330876,
+        "Alex": 607330877,
         "John": 56908939,
         "Jordan": 122748927,
         "Cole": 106831090,
@@ -3141,20 +3191,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6312597
       },
-      "total": 1788719481
+      "total": 1788719482
     },
     {
       "date": "2026-07-05",
       "players": {
         "Alec": 80861343,
-        "Alex": 612415224,
+        "Alex": 612415225,
         "John": 77432832,
         "Jordan": 126219222,
         "Cole": 120211529,
@@ -3191,20 +3241,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6375330
       },
-      "total": 1854231884
+      "total": 1854231885
     },
     {
       "date": "2026-07-06",
       "players": {
         "Alec": 81999515,
-        "Alex": 614086183,
+        "Alex": 614086184,
         "John": 83149932,
         "Jordan": 126903452,
         "Cole": 122508415,
@@ -3241,20 +3291,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6391096
       },
-      "total": 1870623763
+      "total": 1870623764
     },
     {
       "date": "2026-07-07",
       "players": {
         "Alec": 83776503,
-        "Alex": 616224719,
+        "Alex": 616224720,
         "John": 92572810,
         "Jordan": 127896112,
         "Cole": 125492333,
@@ -3291,20 +3341,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6414334
       },
-      "total": 1895062059
+      "total": 1895062060
     },
     {
       "date": "2026-07-08",
       "players": {
         "Alec": 84964375,
-        "Alex": 618031995,
+        "Alex": 618031996,
         "John": 98440787,
         "Jordan": 128674022,
         "Cole": 127699658,
@@ -3341,20 +3391,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6436152
       },
-      "total": 1911756171
+      "total": 1911756172
     },
     {
       "date": "2026-07-09",
       "players": {
         "Alec": 85830386,
-        "Alex": 619342192,
+        "Alex": 619342193,
         "John": 103187438,
         "Jordan": 129272752,
         "Cole": 129429199,
@@ -3391,20 +3441,20 @@
         "moana-live-action": 0,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6446171
       },
-      "total": 1925156325
+      "total": 1925156326
     },
     {
       "date": "2026-07-10",
       "players": {
         "Alec": 86980813,
-        "Alex": 621184697,
+        "Alex": 621184698,
         "John": 109877410,
         "Jordan": 130303647,
         "Cole": 150370757,
@@ -3441,20 +3491,20 @@
         "moana-live-action": 18510043,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6455251
       },
-      "total": 1969523742
+      "total": 1969523743
     },
     {
       "date": "2026-07-11",
       "players": {
         "Alec": 88396075,
-        "Alex": 623208735,
+        "Alex": 623208736,
         "John": 117631903,
         "Jordan": 131565057,
         "Cole": 166690425,
@@ -3491,20 +3541,20 @@
         "moana-live-action": 31950130,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6467569
       },
-      "total": 2009646915
+      "total": 2009646916
     },
     {
       "date": "2026-07-12",
       "players": {
         "Alec": 89591215,
-        "Alex": 624916118,
+        "Alex": 624916119,
         "John": 124353995,
         "Jordan": 132624252,
         "Cole": 180284546,
@@ -3541,20 +3591,20 @@
         "moana-live-action": 43142824,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6479585
       },
-      "total": 2043413306
+      "total": 2043413307
     },
     {
       "date": "2026-07-13",
       "players": {
         "Alec": 90110369,
-        "Alex": 625847944,
+        "Alex": 625847945,
         "John": 127177725,
         "Jordan": 133050557,
         "Cole": 185720522,
@@ -3591,20 +3641,20 @@
         "moana-live-action": 47591086,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6485134
       },
-      "total": 2057534043
+      "total": 2057534044
     },
     {
       "date": "2026-07-14",
       "players": {
         "Alec": 90890557,
-        "Alex": 626965542,
+        "Alex": 626965543,
         "John": 131825789,
         "Jordan": 133631887,
         "Cole": 194401724,
@@ -3641,20 +3691,20 @@
         "moana-live-action": 54898083,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6493055
       },
-      "total": 2079169262
+      "total": 2079169263
     },
     {
       "date": "2026-07-15",
       "players": {
         "Alec": 91430434,
-        "Alex": 627903246,
+        "Alex": 627903247,
         "John": 134995389,
         "Jordan": 134084157,
         "Cole": 199751846,
@@ -3691,20 +3741,20 @@
         "moana-live-action": 59240463,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6499073
       },
-      "total": 2093668817
+      "total": 2093668818
     },
     {
       "date": "2026-07-16",
       "players": {
         "Alec": 91821500,
-        "Alex": 628654800,
+        "Alex": 628654801,
         "John": 138236780,
         "Jordan": 134412397,
         "Cole": 204473464,
@@ -3741,20 +3791,20 @@
         "moana-live-action": 63081410,
         "the-odyssey": 0,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 2106986021
+      "total": 2106986022
     },
     {
       "date": "2026-07-17",
       "players": {
         "Alec": 92273888,
-        "Alex": 629714936,
+        "Alex": 629714937,
         "John": 142643955,
         "Jordan": 134823542,
         "Cole": 211440600,
@@ -3791,20 +3841,20 @@
         "moana-live-action": 68807632,
         "the-odyssey": 50977435,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 2177172709
+      "total": 2177172710
     },
     {
       "date": "2026-07-18",
       "players": {
         "Alec": 92892151,
-        "Alex": 631032193,
+        "Alex": 631032194,
         "John": 148554920,
         "Jordan": 135427887,
         "Cole": 220702827,
@@ -3841,20 +3891,20 @@
         "moana-live-action": 76470201,
         "the-odyssey": 92712920,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 2244796494
+      "total": 2244796495
     },
     {
       "date": "2026-07-19",
       "players": {
         "Alec": 93297178,
-        "Alex": 631853068,
+        "Alex": 631853069,
         "John": 151852657,
         "Jordan": 135759007,
         "Cole": 226219240,
@@ -3891,20 +3941,20 @@
         "moana-live-action": 81019028,
         "the-odyssey": 123502900,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 2290768503
+      "total": 2290768504
     },
     {
       "date": "2026-07-20",
       "players": {
         "Alec": 93510319,
-        "Alex": 632357885,
+        "Alex": 632357886,
         "John": 153675112,
         "Jordan": 135944602,
         "Cole": 228905574,
@@ -3941,20 +3991,20 @@
         "moana-live-action": 83239043,
         "the-odyssey": 142180315,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 2317262537
+      "total": 2317262538
     },
     {
       "date": "2026-07-21",
       "players": {
         "Alec": 93845906,
-        "Alex": 632965327,
+        "Alex": 632965328,
         "John": 157050087,
         "Jordan": 136190127,
         "Cole": 233602100,
@@ -3991,20 +4041,20 @@
         "moana-live-action": 87269607,
         "the-odyssey": 163678510,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 2351987198
+      "total": 2351987199
     },
     {
       "date": "2026-07-22",
       "players": {
         "Alec": 94074142,
-        "Alex": 633473687,
+        "Alex": 633473688,
         "John": 159327902,
         "Jordan": 136371547,
         "Cole": 236592020,
@@ -4041,20 +4091,20 @@
         "moana-live-action": 89793206,
         "the-odyssey": 181746315,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 2379011157
+      "total": 2379011158
     },
     {
       "date": "2026-07-23",
       "players": {
         "Alec": 94234326,
-        "Alex": 633896597,
+        "Alex": 633896598,
         "John": 161255307,
         "Jordan": 136504132,
         "Cole": 239353976,
@@ -4091,20 +4141,20 @@
         "moana-live-action": 91969653,
         "the-odyssey": 199371800,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 2404470423
+      "total": 2404470424
     },
     {
       "date": "2026-07-24",
       "players": {
         "Alec": 94529944,
-        "Alex": 634491373,
+        "Alex": 634491374,
         "John": 164157167,
         "Jordan": 136687337,
         "Cole": 243184961,
@@ -4141,20 +4191,20 @@
         "moana-live-action": 95204712,
         "the-odyssey": 225048680,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 2441845024
+      "total": 2441845025
     },
     {
       "date": "2026-07-25",
       "players": {
         "Alec": 94808456,
-        "Alex": 635274807,
+        "Alex": 635274808,
         "John": 168007072,
         "Jordan": 136963712,
         "Cole": 248275114,
@@ -4191,20 +4241,20 @@
         "moana-live-action": 99459747,
         "the-odyssey": 259616015,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 2491989190
+      "total": 2491989191
     },
     {
       "date": "2026-07-26",
       "players": {
         "Alec": 95015842,
-        "Alex": 635828181,
+        "Alex": 635828182,
         "John": 171009832,
         "Jordan": 137168727,
         "Cole": 251987191,
@@ -4241,20 +4291,20 @@
         "moana-live-action": 102609900,
         "the-odyssey": 289394310,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 2533388933
+      "total": 2533388934
     },
     {
       "date": "2026-07-27",
       "players": {
         "Alec": 95101957,
-        "Alex": 636127873,
+        "Alex": 636127874,
         "John": 172477177,
         "Jordan": 137255667,
         "Cole": 253707639,
@@ -4291,20 +4341,20 @@
         "moana-live-action": 104066297,
         "the-odyssey": 304112215,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 2553579081
+      "total": 2553579082
     },
     {
       "date": "2026-07-28",
       "players": {
         "Alec": 95242738,
-        "Alex": 636503265,
+        "Alex": 636503266,
         "John": 175002762,
         "Jordan": 137383912,
         "Cole": 256667159,
@@ -4341,20 +4391,20 @@
         "moana-live-action": 106609397,
         "the-odyssey": 320553575,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 2579014846
+      "total": 2579014847
     },
     {
       "date": "2026-07-29",
       "players": {
         "Alec": 95344883,
-        "Alex": 636838433,
+        "Alex": 636838434,
         "John": 176800317,
         "Jordan": 137491942,
         "Cole": 258688073,
@@ -4391,20 +4441,20 @@
         "moana-live-action": 108326309,
         "the-odyssey": 334178155,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 2599125876
+      "total": 2599125877
     },
     {
       "date": "2026-07-30",
       "players": {
         "Alec": 95375665,
-        "Alex": 636961345,
+        "Alex": 636961346,
         "John": 178022322,
         "Jordan": 137547097,
         "Cole": 259968819,
@@ -4441,20 +4491,20 @@
         "moana-live-action": 109483124,
         "the-odyssey": 344525415,
         "spider-man-brand-new-day": 0,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 2613523939
+      "total": 2613523940
     },
     {
       "date": "2026-07-31",
       "players": {
         "Alec": 265254130,
-        "Alex": 637254632,
+        "Alex": 637254633,
         "John": 179687307,
         "Jordan": 137602732,
         "Cole": 261726915,
@@ -4491,20 +4541,20 @@
         "moana-live-action": 111095644,
         "the-odyssey": 358677770,
         "spider-man-brand-new-day": 169843039,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 2803675399
+      "total": 2803675400
     },
     {
       "date": "2026-08-01",
       "players": {
         "Alec": 366819850,
-        "Alex": 637590044,
+        "Alex": 637590045,
         "John": 181961812,
         "Jordan": 137672817,
         "Cole": 264108877,
@@ -4541,20 +4591,20 @@
         "moana-live-action": 113260190,
         "the-odyssey": 377990830,
         "spider-man-brand-new-day": 271368679,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 2932517665
+      "total": 2932517666
     },
     {
       "date": "2026-08-02",
       "players": {
         "Alec": 455562946,
-        "Alex": 637809504,
+        "Alex": 637809505,
         "John": 184031592,
         "Jordan": 137723442,
         "Cole": 266084287,
@@ -4591,20 +4641,20 @@
         "moana-live-action": 115093029,
         "the-odyssey": 395573235,
         "spider-man-brand-new-day": 360091572,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 3045682846
+      "total": 3045682847
     },
     {
       "date": "2026-08-03",
       "players": {
         "Alec": 502637137,
-        "Alex": 637940660,
+        "Alex": 637940661,
         "John": 185188307,
         "Jordan": 137748072,
         "Cole": 267124680,
@@ -4641,20 +4691,20 @@
         "moana-live-action": 116069891,
         "the-odyssey": 405250460,
         "spider-man-brand-new-day": 407156180,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 3106065969
+      "total": 3106065970
     },
     {
       "date": "2026-08-04",
       "players": {
         "Alec": 544659984,
-        "Alex": 638069703,
+        "Alex": 638069704,
         "John": 186459232,
         "Jordan": 137765482,
         "Cole": 268312116,
@@ -4691,20 +4741,20 @@
         "moana-live-action": 117183434,
         "the-odyssey": 414095155,
         "spider-man-brand-new-day": 449169617,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 3160922361
+      "total": 3160922362
     },
     {
       "date": "2026-08-05",
       "players": {
         "Alec": 577377639,
-        "Alex": 638187904,
+        "Alex": 638187905,
         "John": 187497087,
         "Jordan": 137782842,
         "Cole": 269221262,
@@ -4741,20 +4791,20 @@
         "moana-live-action": 118025590,
         "the-odyssey": 422488670,
         "spider-man-brand-new-day": 481876434,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 3205229809
+      "total": 3205229810
     },
     {
       "date": "2026-08-06",
       "players": {
         "Alec": 605596744,
-        "Alex": 638281947,
+        "Alex": 638281948,
         "John": 188319002,
         "Jordan": 137795482,
         "Cole": 269884393,
@@ -4791,25 +4841,25 @@
         "moana-live-action": 118641267,
         "the-odyssey": 429672890,
         "spider-man-brand-new-day": 510088528,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 0,
         "super-troopers-3": 0,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 3243072962
+      "total": 3243072963
     },
     {
       "date": "2026-08-07",
       "players": {
         "Alec": 648596744,
-        "Alex": 641170597,
+        "Alex": 641172598,
         "John": 189339002,
         "Jordan": 139495482,
         "Cole": 270780528,
         "Daniel": 850894884,
-        "Brett": 562252633
+        "Brett": 562292633
       },
       "movies": {
         "the-devil-wears-prada-2": 220556651,
@@ -4817,7 +4867,7 @@
         "mortal-kombat-ii": 79770110,
         "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d": 9901485,
         "the-sheep-detectives": 66078506,
-        "obsession": 263185500,
+        "obsession": 263187500,
         "in-the-grey": 5723890,
         "star-wars-the-mandalorian-grogu": 177730060,
         "passenger": 18041122,
@@ -4839,16 +4889,116 @@
         "young-washington": 46743356,
         "evil-dead-burn": 31817868,
         "moana-live-action": 119491267,
-        "the-odyssey": 438492890,
+        "the-odyssey": 438532890,
         "spider-man-brand-new-day": 553088528,
-        "teenage-sex-and-death-at-camp-miasma": 0,
+        "teenage-sex-and-death-at-camp-miasma": 1,
         "one-night-only": 2810000,
         "super-troopers-3": 1700000,
         "paw-patrol-the-dino-movie": 0,
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 3302529870
+      "total": 3302571871
+    },
+    {
+      "date": "2026-08-08",
+      "players": {
+        "Alec": 705596744,
+        "Alex": 642861666,
+        "John": 190719002,
+        "Jordan": 140845482,
+        "Cole": 271999633,
+        "Daniel": 852544884,
+        "Brett": 574735457
+      },
+      "movies": {
+        "the-devil-wears-prada-2": 220556651,
+        "animal-farm": 5588982,
+        "mortal-kombat-ii": 79770110,
+        "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d": 9901485,
+        "the-sheep-detectives": 66078506,
+        "obsession": 263264500,
+        "in-the-grey": 5723890,
+        "star-wars-the-mandalorian-grogu": 177730060,
+        "passenger": 18041122,
+        "i-love-boosters": 9743067,
+        "finding-emily": 0,
+        "the-backrooms": 197467105,
+        "pressure": 15569855,
+        "disclosure-day": 116636645,
+        "power-ballad": 2612490,
+        "masters-of-the-universe": 64830245,
+        "scary-movie-6": 108277762,
+        "toy-story-5": 469261614,
+        "girls-like-girls": 2735660,
+        "the-death-of-robin-hood": 5338320,
+        "supergirl-woman-of-tomorrow": 72118944,
+        "jackass-5-best-and-last": 18273185,
+        "i-want-your-sex": 245000,
+        "minions-monsters": 175252045,
+        "young-washington": 46812461,
+        "evil-dead-burn": 31817868,
+        "moana-live-action": 120641267,
+        "the-odyssey": 450972890,
+        "spider-man-brand-new-day": 610088528,
+        "teenage-sex-and-death-at-camp-miasma": 1,
+        "one-night-only": 4400000,
+        "super-troopers-3": 3050000,
+        "paw-patrol-the-dino-movie": 0,
+        "cliffhanger": 0,
+        "the-furious": 6502610
+      },
+      "total": 3379302868
+    },
+    {
+      "date": "2026-08-09",
+      "players": {
+        "Alec": 750596744,
+        "Alex": 644236217,
+        "John": 191819002,
+        "Jordan": 141795482,
+        "Cole": 272844551,
+        "Daniel": 853664884,
+        "Brett": 584937715
+      },
+      "movies": {
+        "the-devil-wears-prada-2": 220556651,
+        "animal-farm": 5588982,
+        "mortal-kombat-ii": 79770110,
+        "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d": 9901485,
+        "the-sheep-detectives": 66078506,
+        "obsession": 263322500,
+        "in-the-grey": 5723890,
+        "star-wars-the-mandalorian-grogu": 177730060,
+        "passenger": 18041122,
+        "i-love-boosters": 9743067,
+        "finding-emily": 0,
+        "the-backrooms": 197483656,
+        "pressure": 15569855,
+        "disclosure-day": 116636645,
+        "power-ballad": 2612490,
+        "masters-of-the-universe": 64830245,
+        "scary-movie-6": 108277762,
+        "toy-story-5": 470381614,
+        "girls-like-girls": 2735660,
+        "the-death-of-robin-hood": 5340578,
+        "supergirl-woman-of-tomorrow": 72118944,
+        "jackass-5-best-and-last": 18273185,
+        "i-want-your-sex": 245000,
+        "minions-monsters": 176352045,
+        "young-washington": 46857379,
+        "evil-dead-burn": 31817868,
+        "moana-live-action": 121441267,
+        "the-odyssey": 461172890,
+        "spider-man-brand-new-day": 655088528,
+        "teenage-sex-and-death-at-camp-miasma": 1,
+        "one-night-only": 5700000,
+        "super-troopers-3": 4000000,
+        "paw-patrol-the-dino-movie": 0,
+        "cliffhanger": 0,
+        "the-furious": 6502610
+      },
+      "total": 3439894595
     }
   ]
 }

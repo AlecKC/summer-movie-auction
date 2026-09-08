@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T13:42:06.964Z",
+  "lastUpdated": "2026-09-08T12:18:09.047Z",
   "movies": [
     {
       "id": "the-devil-wears-prada-2",
@@ -694,9 +694,9 @@
       "title": "Finding Emily",
       "owner": "Brett",
       "releaseDate": "2026-08-28",
-      "domesticgross": 1361835,
+      "domesticgross": 1363835,
       "point_cost": 4,
-      "dailychange": 98000,
+      "dailychange": 100000,
       "revenueurl": "https://www.boxofficemojo.com/release/rl3968761857",
       "source": "boxofficemojo.com",
       "history": {
@@ -709,7 +709,7 @@
         "2026-09-03": 1100835,
         "2026-09-04": 1165835,
         "2026-09-05": 1263835,
-        "2026-09-06": 1361835
+        "2026-09-06": 1363835
       },
       "lastRevenueDate": "2026-09-06"
     },
@@ -1113,9 +1113,9 @@
       "title": "Toy Story 5",
       "owner": "Daniel",
       "releaseDate": "2026-06-19",
-      "domesticgross": 479679985,
+      "domesticgross": 479707985,
       "point_cost": 37,
-      "dailychange": 284000,
+      "dailychange": 312000,
       "revenueurl": "https://www.boxofficemojo.com/release/rl3344859137",
       "source": "boxofficemojo.com",
       "history": {
@@ -1197,7 +1197,7 @@
         "2026-09-03": 478986985,
         "2026-09-04": 479111985,
         "2026-09-05": 479395985,
-        "2026-09-06": 479679985
+        "2026-09-06": 479707985
       },
       "lastRevenueDate": "2026-09-06"
     },
@@ -1442,9 +1442,9 @@
       "title": "Minions & Monsters",
       "owner": "John",
       "releaseDate": "2026-07-01",
-      "domesticgross": 183097515,
+      "domesticgross": 183099515,
       "point_cost": 24,
-      "dailychange": 77000,
+      "dailychange": 75000,
       "revenueurl": "https://www.boxofficemojo.com/release/rl779714561",
       "source": "boxofficemojo.com",
       "history": {
@@ -1512,9 +1512,9 @@
         "2026-09-01": 182849445,
         "2026-09-02": 182878660,
         "2026-09-03": 182902515,
-        "2026-09-04": 182939515,
-        "2026-09-05": 183020515,
-        "2026-09-06": 183097515
+        "2026-09-04": 182940515,
+        "2026-09-05": 183024515,
+        "2026-09-06": 183099515
       },
       "lastRevenueDate": "2026-09-06"
     },
@@ -1662,9 +1662,9 @@
       "title": "Moana (Live-Action)",
       "owner": "Cole",
       "releaseDate": "2026-07-10",
-      "domesticgross": 126184148,
+      "domesticgross": 126181148,
       "point_cost": 35,
-      "dailychange": 28000,
+      "dailychange": 25000,
       "revenueurl": "https://www.boxofficemojo.com/release/rl486245121",
       "source": "boxofficemojo.com",
       "history": {
@@ -1726,7 +1726,7 @@
         "2026-09-03": 126116148,
         "2026-09-04": 126128148,
         "2026-09-05": 126156148,
-        "2026-09-06": 126184148
+        "2026-09-06": 126181148
       },
       "lastRevenueDate": "2026-09-06"
     },
@@ -1735,9 +1735,9 @@
       "title": "The Odyssey",
       "owner": "Brett",
       "releaseDate": "2026-07-17",
-      "domesticgross": 584776965,
+      "domesticgross": 584826965,
       "point_cost": 49,
-      "dailychange": 5140000,
+      "dailychange": 5190000,
       "revenueurl": "https://www.boxofficemojo.com/release/rl170295297",
       "source": "boxofficemojo.com",
       "history": {
@@ -1790,9 +1790,9 @@
         "2026-09-01": 568063940,
         "2026-09-02": 569907035,
         "2026-09-03": 571776965,
-        "2026-09-04": 574876965,
+        "2026-09-04": 574866965,
         "2026-09-05": 579636965,
-        "2026-09-06": 584776965
+        "2026-09-06": 584826965
       },
       "lastRevenueDate": "2026-09-06"
     },
@@ -1801,9 +1801,9 @@
       "title": "Spider-Man: Brand New Day",
       "owner": "Alec",
       "releaseDate": "2026-07-31",
-      "domesticgross": 917762495,
+      "domesticgross": 917937495,
       "point_cost": 48,
-      "dailychange": 7170000,
+      "dailychange": 7320000,
       "revenueurl": "https://www.boxofficemojo.com/release/rl2299756545",
       "source": "boxofficemojo.com",
       "history": {
@@ -1842,9 +1842,9 @@
         "2026-09-01": 896395379,
         "2026-09-02": 898127191,
         "2026-09-03": 899762495,
-        "2026-09-04": 903627495,
-        "2026-09-05": 910592495,
-        "2026-09-06": 917762495
+        "2026-09-04": 903637495,
+        "2026-09-05": 910617495,
+        "2026-09-06": 917937495
       },
       "lastRevenueDate": "2026-09-06"
     },
@@ -1937,9 +1937,9 @@
       "title": "Super Troopers 3",
       "owner": "Jordan",
       "releaseDate": "2026-08-07",
-      "domesticgross": 7428725,
+      "domesticgross": 7426725,
       "point_cost": 23,
-      "dailychange": 12000,
+      "dailychange": 10000,
       "revenueurl": "https://www.boxofficemojo.com/release/rl1468104705",
       "source": "boxofficemojo.com",
       "history": {
@@ -1973,7 +1973,7 @@
         "2026-09-03": 7401725,
         "2026-09-04": 7405725,
         "2026-09-05": 7416725,
-        "2026-09-06": 7428725
+        "2026-09-06": 7426725
       },
       "lastRevenueDate": "2026-09-06"
     },

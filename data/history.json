@@ -6207,7 +6207,7 @@
         "Alex": 656110163,
         "John": 244285627,
         "Jordan": 145203136,
-        "Cole": 277740469,
+        "Cole": 277741479,
         "Daniel": 862822193,
         "Brett": 699828161
       },
@@ -6236,7 +6236,7 @@
         "jackass-5-best-and-last": 18273185,
         "i-want-your-sex": 245000,
         "minions-monsters": 182938900,
-        "young-washington": 47066488,
+        "young-washington": 47067498,
         "evil-dead-burn": 32237058,
         "moana-live-action": 126128076,
         "the-odyssey": 574884460,
@@ -6248,7 +6248,7 @@
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 3885383579
+      "total": 3885384589
     },
     {
       "date": "2026-09-05",
@@ -6257,7 +6257,7 @@
         "Alex": 656232106,
         "John": 245687832,
         "Jordan": 145216704,
-        "Cole": 277769545,
+        "Cole": 277771441,
         "Daniel": 863128314,
         "Brett": 704711931
       },
@@ -6286,7 +6286,7 @@
         "jackass-5-best-and-last": 18273185,
         "i-want-your-sex": 245000,
         "minions-monsters": 183021825,
-        "young-washington": 47066488,
+        "young-washington": 47068384,
         "evil-dead-burn": 32237058,
         "moana-live-action": 126157152,
         "the-odyssey": 579671865,
@@ -6298,7 +6298,7 @@
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 3899122765
+      "total": 3899124661
     },
     {
       "date": "2026-09-06",
@@ -6307,7 +6307,7 @@
         "Alex": 656347787,
         "John": 247048661,
         "Jordan": 145228843,
-        "Cole": 277795360,
+        "Cole": 277797901,
         "Daniel": 863453864,
         "Brett": 710010986
       },
@@ -6336,7 +6336,7 @@
         "jackass-5-best-and-last": 18273185,
         "i-want-your-sex": 245000,
         "minions-monsters": 183095790,
-        "young-washington": 47066488,
+        "young-washington": 47069029,
         "evil-dead-burn": 32237058,
         "moana-live-action": 126182967,
         "the-odyssey": 584872095,
@@ -6348,7 +6348,7 @@
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 3913582672
+      "total": 3913585213
     },
     {
       "date": "2026-09-08",
@@ -6357,7 +6357,7 @@
         "Alex": 656347787,
         "John": 248642027,
         "Jordan": 145230477,
-        "Cole": 277823705,
+        "Cole": 277826758,
         "Daniel": 863764852,
         "Brett": 715866896
       },
@@ -6386,7 +6386,7 @@
         "jackass-5-best-and-last": 18273185,
         "i-want-your-sex": 245000,
         "minions-monsters": 183161980,
-        "young-washington": 47066488,
+        "young-washington": 47069541,
         "evil-dead-burn": 32237058,
         "moana-live-action": 126211312,
         "the-odyssey": 590589315,
@@ -6398,7 +6398,7 @@
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 3928400099
+      "total": 3928403152
     },
     {
       "date": "2026-09-09",
@@ -6407,7 +6407,7 @@
         "Alex": 656347787,
         "John": 248794843,
         "Jordan": 145230808,
-        "Cole": 277825735,
+        "Cole": 277828804,
         "Daniel": 863789758,
         "Brett": 717159431
       },
@@ -6436,7 +6436,7 @@
         "jackass-5-best-and-last": 18273185,
         "i-want-your-sex": 245000,
         "minions-monsters": 183165935,
-        "young-washington": 47066488,
+        "young-washington": 47069557,
         "evil-dead-burn": 32237058,
         "moana-live-action": 126213342,
         "the-odyssey": 591851560,
@@ -6448,7 +6448,57 @@
         "cliffhanger": 0,
         "the-furious": 6502610
       },
-      "total": 3930874462
+      "total": 3930877531
+    },
+    {
+      "date": "2026-09-10",
+      "players": {
+        "Alec": 1022526692,
+        "Alex": 656347787,
+        "John": 248888088,
+        "Jordan": 145231454,
+        "Cole": 277830304,
+        "Daniel": 863803449,
+        "Brett": 718428556
+      },
+      "movies": {
+        "the-devil-wears-prada-2": 220556651,
+        "animal-farm": 5588982,
+        "mortal-kombat-ii": 79770110,
+        "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d": 9901485,
+        "the-sheep-detectives": 66078506,
+        "obsession": 263451715,
+        "in-the-grey": 5723890,
+        "star-wars-the-mandalorian-grogu": 177730060,
+        "passenger": 18041122,
+        "i-love-boosters": 9743067,
+        "finding-emily": 1541870,
+        "the-backrooms": 197523513,
+        "pressure": 15569855,
+        "disclosure-day": 116636645,
+        "power-ballad": 2612490,
+        "masters-of-the-universe": 64830245,
+        "scary-movie-6": 108277762,
+        "toy-story-5": 480100989,
+        "girls-like-girls": 2735660,
+        "the-death-of-robin-hood": 5355164,
+        "supergirl-woman-of-tomorrow": 72366532,
+        "jackass-5-best-and-last": 18273185,
+        "i-want-your-sex": 245000,
+        "minions-monsters": 183171260,
+        "young-washington": 47070129,
+        "evil-dead-burn": 32237058,
+        "moana-live-action": 126214270,
+        "the-odyssey": 593107275,
+        "spider-man-brand-new-day": 926770888,
+        "teenage-sex-and-death-at-camp-miasma": 6136219,
+        "one-night-only": 11506280,
+        "super-troopers-3": 7435972,
+        "paw-patrol-the-dino-movie": 50249871,
+        "cliffhanger": 0,
+        "the-furious": 6502610
+      },
+      "total": 3933056330
     }
   ]
 }

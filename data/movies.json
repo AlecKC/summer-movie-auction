@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T12:51:53.989Z",
+  "lastUpdated": "2026-09-14T14:26:23.606Z",
   "movies": [
     {
       "id": "the-devil-wears-prada-2",
@@ -1116,9 +1116,9 @@
       "title": "Toy Story 5",
       "owner": "Daniel",
       "releaseDate": "2026-06-19",
-      "domesticgross": 480122989,
+      "domesticgross": 480204989,
       "point_cost": 37,
-      "dailychange": 22000,
+      "dailychange": 34000,
       "revenueurl": "https://www.boxofficemojo.com/release/rl3344859137",
       "source": "boxofficemojo.com",
       "history": {
@@ -1204,9 +1204,11 @@
         "2026-09-08": 480062392,
         "2026-09-09": 480087298,
         "2026-09-10": 480100989,
-        "2026-09-11": 480122989
+        "2026-09-11": 480122989,
+        "2026-09-12": 480170989,
+        "2026-09-13": 480204989
       },
-      "lastRevenueDate": "2026-09-11"
+      "lastRevenueDate": "2026-09-13"
     },
     {
       "id": "girls-like-girls",
@@ -1678,9 +1680,9 @@
       "title": "Moana (Live-Action)",
       "owner": "Cole",
       "releaseDate": "2026-07-10",
-      "domesticgross": 126217270,
+      "domesticgross": 126229270,
       "point_cost": 35,
-      "dailychange": 3000,
+      "dailychange": 5000,
       "revenueurl": "https://www.boxofficemojo.com/release/rl486245121",
       "source": "boxofficemojo.com",
       "history": {
@@ -1746,18 +1748,20 @@
         "2026-09-08": 126211312,
         "2026-09-09": 126213342,
         "2026-09-10": 126214270,
-        "2026-09-11": 126217270
+        "2026-09-11": 126217270,
+        "2026-09-12": 126224270,
+        "2026-09-13": 126229270
       },
-      "lastRevenueDate": "2026-09-11"
+      "lastRevenueDate": "2026-09-13"
     },
     {
       "id": "the-odyssey",
       "title": "The Odyssey",
       "owner": "Brett",
       "releaseDate": "2026-07-17",
-      "domesticgross": 595167275,
+      "domesticgross": 600507275,
       "point_cost": 49,
-      "dailychange": 2060000,
+      "dailychange": 2190000,
       "revenueurl": "https://www.boxofficemojo.com/release/rl170295297",
       "source": "boxofficemojo.com",
       "history": {
@@ -1816,18 +1820,20 @@
         "2026-09-08": 590589315,
         "2026-09-09": 591851560,
         "2026-09-10": 593107275,
-        "2026-09-11": 595167275
+        "2026-09-11": 595187275,
+        "2026-09-12": 598317275,
+        "2026-09-13": 600507275
       },
-      "lastRevenueDate": "2026-09-11"
+      "lastRevenueDate": "2026-09-13"
     },
     {
       "id": "spider-man-brand-new-day",
       "title": "Spider-Man: Brand New Day",
       "owner": "Alec",
       "releaseDate": "2026-07-31",
-      "domesticgross": 928770888,
+      "domesticgross": 935170888,
       "point_cost": 48,
-      "dailychange": 2000000,
+      "dailychange": 2550000,
       "revenueurl": "https://www.boxofficemojo.com/release/rl2299756545",
       "source": "boxofficemojo.com",
       "history": {
@@ -1872,9 +1878,11 @@
         "2026-09-08": 924968551,
         "2026-09-09": 925970296,
         "2026-09-10": 926770888,
-        "2026-09-11": 928770888
+        "2026-09-11": 928770888,
+        "2026-09-12": 932620888,
+        "2026-09-13": 935170888
       },
-      "lastRevenueDate": "2026-09-11"
+      "lastRevenueDate": "2026-09-13"
     },
     {
       "id": "teenage-sex-and-death-at-camp-miasma",
@@ -2016,9 +2024,9 @@
       "title": "PAW Patrol: The Dino Movie",
       "owner": "John",
       "releaseDate": "2026-08-14",
-      "domesticgross": 50444871,
+      "domesticgross": 51399871,
       "point_cost": 26,
-      "dailychange": 195000,
+      "dailychange": 380000,
       "revenueurl": "https://www.boxofficemojo.com/release/rl4082532353",
       "source": "boxofficemojo.com",
       "history": {
@@ -2049,9 +2057,11 @@
         "2026-09-08": 50013090,
         "2026-09-09": 50161951,
         "2026-09-10": 50249871,
-        "2026-09-11": 50444871
+        "2026-09-11": 50444871,
+        "2026-09-12": 51019871,
+        "2026-09-13": 51399871
       },
-      "lastRevenueDate": "2026-09-11"
+      "lastRevenueDate": "2026-09-13"
     },
     {
       "id": "cliffhanger",

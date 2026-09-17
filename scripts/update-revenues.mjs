@@ -4,6 +4,7 @@ import * as cheerio from "cheerio";
 const DATA_PATH = "data/movies.json";
 const HISTORY_PATH = "data/history.json";
 const PLAYERS = ["Alec", "Alex", "John", "Jordan", "Cole", "Daniel", "Brett"];
+const REVENUE_CUTOFF = "2026-09-07";
 const REQUEST_HEADERS = {
   "user-agent": "movie-auction-tracker/1.0 (+https://github.com/)"
 };
@@ -96,7 +97,7 @@ function rowsToHistory(movie, rows) {
     const date = normalizeTableDate(row.date, fallbackYear);
     const cumulative = parseMoney(row.toDate);
 
-    if (!date || cumulative === null) continue;
+    if (!date || date > REVENUE_CUTOFF || cumulative === null) continue;
     history[date] = cumulative;
   }
 
@@ -112,6 +113,20 @@ async function fetchMovieHistory(movie) {
 
 const data = JSON.parse(await fs.readFile(DATA_PATH, "utf8"));
 const today = new Date().toISOString().slice(0, 10);
+
+if (today > REVENUE_CUTOFF) {
+  const cappedCount = capStoredRevenue(data);
+
+  if (cappedCount > 0) {
+    data.lastUpdated = `${REVENUE_CUTOFF}T23:59:59.999Z`;
+  }
+
+  await fs.writeFile(DATA_PATH, `${JSON.stringify(data, null, 2)}\n`);
+  await rebuildHistorySnapshots(data);
+  console.log(`Revenue updates ended on ${REVENUE_CUTOFF}; no revenues were fetched.`);
+  process.exit(0);
+}
+
 let updatedCount = 0;
 
 for (const movie of data.movies) {
@@ -142,6 +157,36 @@ await fs.writeFile(DATA_PATH, `${JSON.stringify(data, null, 2)}\n`);
 await rebuildHistorySnapshots(data);
 console.log(`Updated ${updatedCount} movie revenues.`);
 
+function capStoredRevenue(data) {
+  let cappedCount = 0;
+
+  for (const movie of data.movies) {
+    const entries = Object.entries(movie.history || {});
+    const cappedHistory = Object.fromEntries(entries.filter(([date]) => date <= REVENUE_CUTOFF));
+
+    if (entries.length === Object.keys(cappedHistory).length) continue;
+
+    movie.history = cappedHistory;
+    const historyEntries = Object.entries(cappedHistory).sort(([a], [b]) => a.localeCompare(b));
+
+    if (historyEntries.length) {
+      const [latestDate, latestGross] = historyEntries.at(-1);
+      const priorGross = historyEntries.at(-2)?.[1] ?? 0;
+      movie.domesticgross = latestGross;
+      movie.dailychange = latestGross - priorGross;
+      movie.lastRevenueDate = latestDate;
+    } else {
+      movie.domesticgross = 0;
+      movie.dailychange = 0;
+      delete movie.lastRevenueDate;
+    }
+
+    cappedCount += 1;
+  }
+
+  return cappedCount;
+}
+
 async function rebuildHistorySnapshots(data) {
   const dates = new Set();
 
@@ -150,6 +195,10 @@ async function rebuildHistorySnapshots(data) {
       dates.add(date);
     }
   }
+
+  // Box Office Mojo may not publish a row on a holiday. Preserve the final
+  // eligible day by carrying forward the most recent totals into this snapshot.
+  dates.add(REVENUE_CUTOFF);
 
   const runningMovieTotals = Object.fromEntries(data.movies.map((movie) => [movie.id, 0]));
   const snapshots = [...dates].sort().map((date) => {

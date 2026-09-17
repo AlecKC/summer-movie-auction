@@ -2,6 +2,7 @@ import fs from "node:fs/promises";
 
 const raw = await fs.readFile("data/movies.json", "utf8");
 const data = JSON.parse(raw);
+const REVENUE_CUTOFF = "2026-09-07";
 
 if (!Array.isArray(data.movies)) {
   throw new Error("data/movies.json must contain a movies array.");
@@ -33,6 +34,14 @@ for (const [index, movie] of data.movies.entries()) {
       throw new Error(`${movie.title} has an invalid ${field}.`);
     }
   }
+
+  if (Object.keys(movie.history || {}).some((date) => date > REVENUE_CUTOFF)) {
+    throw new Error(`${movie.title} has revenue history after ${REVENUE_CUTOFF}.`);
+  }
+
+  if (movie.lastRevenueDate && movie.lastRevenueDate > REVENUE_CUTOFF) {
+    throw new Error(`${movie.title} has a revenue date after ${REVENUE_CUTOFF}.`);
+  }
 }
 
 console.log(`Validated ${data.movies.length} movies.`);
@@ -51,6 +60,10 @@ try {
 
     if (!snapshot.players || typeof snapshot.players !== "object") {
       throw new Error(`History snapshot ${snapshot.date} is missing players.`);
+    }
+
+    if (snapshot.date > REVENUE_CUTOFF) {
+      throw new Error(`History snapshot ${snapshot.date} is after ${REVENUE_CUTOFF}.`);
     }
   }
 

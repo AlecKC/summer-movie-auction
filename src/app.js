@@ -11,7 +11,7 @@ const PLAYER_META = {
 };
 
 const START = "2026-04-30";
-const END = "2026-09-21";
+const END = "2026-09-07";
 const currency = new Intl.NumberFormat("en-US", {
   style: "currency",
   currency: "USD",
@@ -65,6 +65,24 @@ function points(movie) {
 function domesticPerPoint(movie) {
   const cost = points(movie);
   return cost > 0 ? domesticGross(movie) / cost : null;
+}
+
+function movieHistoryEntries(movie) {
+  return Object.entries(movie.history || {})
+    .map(([date, value]) => ({ date, value: Number(value || 0) }))
+    .filter((entry) => /^\d{4}-\d{2}-\d{2}$/.test(entry.date))
+    .sort((a, b) => a.date.localeCompare(b.date));
+}
+
+function openingDayGross(movie) {
+  const [opening] = movieHistoryEntries(movie);
+  return opening?.value ?? domesticGross(movie);
+}
+
+function daysFromOpening(movie, date) {
+  const [opening] = movieHistoryEntries(movie);
+  if (!opening || !date) return null;
+  return dateDiff(parseDate(opening.date), parseDate(date)) + 1;
 }
 
 function parseDate(value) {
@@ -418,7 +436,7 @@ function renderCompareDock() {
   dock.hidden = false;
   if (compared.length === 1) {
     dock.innerHTML = `
-      <span>${badge(compared[0])}</span>
+      <span>${scorePill(compared[0])}</span>
       <strong>Select another to compare</strong>
     `;
     return;
@@ -429,12 +447,12 @@ function renderCompareDock() {
   const b = state.owners.find((owner) => owner.name === second)?.total || 0;
   const lead = Math.abs(a - b);
   dock.innerHTML = `
-    <span>${badge(first)} ${a > b ? `leads by ${money(lead)}` : ""}</span>
-    <span>${badge(second)} ${b > a ? `leads by ${money(lead)}` : ""}</span>
+    <span>${scorePill(first)} ${a > b ? `leads by ${money(lead)}` : ""}</span>
+    <span>${scorePill(second)} ${b > a ? `leads by ${money(lead)}` : ""}</span>
   `;
 }
 
-function badge(name) {
+function scorePill(name) {
   const meta = PLAYER_META[name] || PLAYER_META.Unassigned;
   return `<span class="score-pill ${meta.className}"><span>${name}</span></span>`;
 }
@@ -640,6 +658,278 @@ function renderMovies() {
     `).join("");
 }
 
+function formatStatDate(value) {
+  return new Intl.DateTimeFormat("en-US", { month: "short", day: "numeric" }).format(parseDate(value));
+}
+
+function dailyHistory(movie) {
+  let previous = 0;
+  return movieHistoryEntries(movie).map(({ date, value }) => {
+    const daily = Math.max(value - previous, 0);
+    previous = value;
+    return { date, value, daily };
+  });
+}
+
+function findFastestTo(movie, threshold) {
+  return movieHistoryEntries(movie).find((entry) => entry.value >= threshold) || null;
+}
+
+function renderStatPair({ tone, number, topic, question, answer, detail }) {
+  return `
+    <section class="stats-slide stats-question tone-${tone}">
+      <p class="slide-number">${number}</p>
+      <p class="slide-kicker">${topic}</p>
+      <h2>${question}</h2>
+      <p class="slide-direction">Take a guess, then scroll for the reveal.</p>
+      <span class="scroll-cue" aria-hidden="true">↓</span>
+    </section>
+    <section class="stats-slide stats-reveal tone-${tone}">
+      <p class="slide-kicker">${topic} · reveal</p>
+      <p class="reveal-answer">${answer}</p>
+      <p class="reveal-detail">${detail}</p>
+      <span class="scroll-cue" aria-hidden="true">↓</span>
+    </section>
+  `;
+}
+
+function renderFunStats() {
+  const container = document.querySelector("#fun-stats");
+  const movies = state.data.movies.filter((movie) => domesticGross(movie) > 0);
+  const totalGross = movies.reduce((sum, movie) => sum + domesticGross(movie), 0);
+  const topGross = [...movies].sort((a, b) => domesticGross(b) - domesticGross(a))[0];
+  const topValue = [...movies]
+    .filter((movie) => domesticPerPoint(movie) !== null)
+    .sort((a, b) => domesticPerPoint(b) - domesticPerPoint(a))[0];
+  const worstMovie = [...movies].sort((a, b) => domesticGross(a) - domesticGross(b))[0];
+  const leastEfficient = [...movies]
+    .filter((movie) => domesticPerPoint(movie) !== null)
+    .sort((a, b) => domesticPerPoint(a) - domesticPerPoint(b))[0];
+  const topOpening = [...movies]
+    .map((movie) => ({ movie, gross: openingDayGross(movie) }))
+    .sort((a, b) => b.gross - a.gross)[0];
+  const fastestHundred = movies
+    .map((movie) => {
+      const reached = findFastestTo(movie, 100000000);
+      const days = reached ? daysFromOpening(movie, reached.date) : null;
+      return reached && days !== null ? { movie, reached, days } : null;
+    })
+    .filter(Boolean)
+    .sort((a, b) => a.days - b.days || domesticGross(b.movie) - domesticGross(a.movie))[0];
+  const biggestDay = movies
+    .flatMap((movie) => dailyHistory(movie).map((entry) => ({ ...entry, movie })))
+    .sort((a, b) => b.daily - a.daily)[0];
+  const hundredMillionClub = movies.filter((movie) => domesticGross(movie) >= 100000000);
+  const topMovies = [...movies].sort((a, b) => domesticGross(b) - domesticGross(a)).slice(0, 5);
+  const ownerPairs = state.owners
+    .filter((owner) => owner.movies.length)
+    .flatMap((owner, index, owners) => owners.slice(index + 1).map((other) => ({
+      first: owner,
+      second: other,
+      gap: Math.abs(owner.total - other.total)
+    })))
+    .sort((a, b) => a.gap - b.gap)[0];
+  const highestOwner = state.owners[0];
+
+  if (!topGross || !topValue || !worstMovie || !leastEfficient || !topOpening || !fastestHundred || !biggestDay || !ownerPairs) {
+    container.innerHTML = `<p class="stats-empty">There isn't enough revenue history to calculate the fun stats yet.</p>`;
+    return;
+  }
+
+  const statPairs = [
+    {
+      tone: "violet",
+      number: "01",
+      topic: "Box office boss",
+      question: "Which movie ruled the summer?",
+      answer: `${topGross.title}`,
+      detail: `${topGross.owner}'s pick finished at ${money(domesticGross(topGross))}.`
+    },
+    {
+      tone: "gold",
+      number: "02",
+      topic: "Best bargain",
+      question: "Which pick squeezed the most money out of every point?",
+      answer: `${topValue.title}`,
+      detail: `${topValue.owner} turned ${points(topValue)} points into ${money(domesticPerPoint(topValue))} per point.`
+    },
+    {
+      tone: "sky",
+      number: "03",
+      topic: "Fastest to $100M",
+      question: "Which movie got to nine figures before everyone else?",
+      answer: `${fastestHundred.movie.title}`,
+      detail: `It hit $100M in ${fastestHundred.days} day${fastestHundred.days === 1 ? "" : "s"}, on ${formatStatDate(fastestHundred.reached.date)}.`
+    },
+    {
+      tone: "pink",
+      number: "04",
+      topic: "Wildest single day",
+      question: "What was the biggest one-day box office explosion?",
+      answer: `${money(biggestDay.daily)}`,
+      detail: `${biggestDay.movie.title} delivered it on ${formatStatDate(biggestDay.date)} for ${biggestDay.movie.owner}.`
+    },
+    {
+      tone: "red",
+      number: "05",
+      topic: "Bottom of the barrel",
+      question: "Which movie had the roughest run? And which was least efficient?",
+      answer: `${worstMovie.title} · ${leastEfficient.title}`,
+      detail: `${worstMovie.title} earned ${money(domesticGross(worstMovie))}; ${leastEfficient.title} returned only ${money(domesticPerPoint(leastEfficient))} per point.`
+    },
+    {
+      tone: "blue",
+      number: "06",
+      topic: "Photo finish",
+      question: "Which two players are separated by the smallest gap?",
+      answer: `${ownerPairs.first.name} vs. ${ownerPairs.second.name}`,
+      detail: `Just ${money(ownerPairs.gap)} separates them: ${shortMoney(ownerPairs.first.total)} to ${shortMoney(ownerPairs.second.total)}.`
+    }
+  ];
+
+  container.innerHTML = `
+    <div class="stats-deck" tabindex="0" aria-label="Fun Stats presentation. Scroll to reveal each answer.">
+      <section class="stats-slide stats-intro">
+        <p class="slide-kicker">Summer Movie Auction · 2026</p>
+        <h2>Fun<br>stats.</h2>
+        <p class="intro-copy">A colorful, scroll-through awards show for ${movies.length} movies and ${shortMoney(totalGross)} in tracked box office.</p>
+        <p class="slide-direction">Scroll to start the presentation.</p>
+        <span class="scroll-cue" aria-hidden="true">↓</span>
+      </section>
+      <section class="stats-slide stats-overview">
+        <p class="slide-kicker">Before we begin</p>
+        <h2>${hundredMillionClub.length} movies joined the $100M club.</h2>
+        <p class="reveal-detail">The biggest opening belonged to ${topOpening.movie.title}: ${money(topOpening.gross)} on day one.</p>
+        <span class="scroll-cue" aria-hidden="true">↓</span>
+      </section>
+      ${statPairs.map(renderStatPair).join("")}
+      <section class="stats-slide stats-final">
+        <p class="slide-kicker">Final credits</p>
+        <h2>${highestOwner.name} leads the league.</h2>
+        <p class="reveal-detail">${money(highestOwner.total)} from ${highestOwner.movies.length} picks — ${((highestOwner.total / totalGross) * 100).toFixed(1)}% of all auction revenue.</p>
+        <ol class="slide-earners">
+          ${topMovies.map((movie, index) => `<li><span>${index + 1}</span><b>${movie.title}</b><strong>${shortMoney(domesticGross(movie))}</strong></li>`).join("")}
+        </ol>
+        <p class="slide-direction">That’s the show. Back to the leaderboard for the arguments.</p>
+      </section>
+    </div>
+  `;
+  return;
+
+  container.innerHTML = `
+    <header class="stats-hero">
+      <p class="eyebrow">The numbers have spoken</p>
+      <h2 id="stats-title">Fun stats</h2>
+      <p>Big swings, great bargains, and the facts you can deploy for maximum group-chat bragging rights.</p>
+    </header>
+
+    <div class="stats-headlines" aria-label="Season highlights">
+      <article class="headline-card headline-total">
+        <span class="stat-kicker">Total tracked box office</span>
+        <strong>${shortMoney(totalGross)}</strong>
+        <span>${movies.length} movies in the auction</span>
+      </article>
+      <article class="headline-card">
+        <span class="stat-kicker">Biggest opening day</span>
+        <strong>${shortMoney(topOpening.gross)}</strong>
+        <span>${topOpening.movie.title}</span>
+      </article>
+      <article class="headline-card">
+        <span class="stat-kicker">$100M club</span>
+        <strong>${hundredMillionClub.length}</strong>
+        <span>movies crossed nine figures</span>
+      </article>
+    </div>
+
+    <section class="superlatives" aria-labelledby="superlatives-title">
+      <div class="section-heading">
+        <p class="eyebrow">Season superlatives</p>
+        <h3 id="superlatives-title">Who gets the hardware?</h3>
+      </div>
+      <div class="superlative-grid">
+        <article class="superlative-card accent-violet">
+          <span class="superlative-icon" aria-hidden="true">◎</span>
+          <p>Box office boss</p>
+          <h4>${topGross.title}</h4>
+          <strong>${money(domesticGross(topGross))}</strong>
+          <span>Drafted by ${topGross.owner}</span>
+        </article>
+        <article class="superlative-card accent-gold">
+          <span class="superlative-icon" aria-hidden="true">$</span>
+          <p>Best bargain</p>
+          <h4>${topValue.title}</h4>
+          <strong>${money(domesticPerPoint(topValue))}/pt</strong>
+          <span>${topValue.owner} turned ${points(topValue)} points into gold</span>
+        </article>
+        <article class="superlative-card accent-sky">
+          <span class="superlative-icon" aria-hidden="true">↗</span>
+          <p>Fastest to $100M</p>
+          <h4>${fastestHundred.movie.title}</h4>
+          <strong>${fastestHundred.days} day${fastestHundred.days === 1 ? "" : "s"}</strong>
+          <span>Hit the mark on ${formatStatDate(fastestHundred.reached.date)}</span>
+        </article>
+        <article class="superlative-card accent-pink">
+          <span class="superlative-icon" aria-hidden="true">!</span>
+          <p>Wildest single day</p>
+          <h4>${biggestDay.movie.title}</h4>
+          <strong>${money(biggestDay.daily)}</strong>
+          <span>${formatStatDate(biggestDay.date)} · ${biggestDay.movie.owner}'s pick</span>
+        </article>
+        <article class="superlative-card accent-red">
+          <span class="superlative-icon" aria-hidden="true">↓</span>
+          <p>Worst movie</p>
+          <h4>${worstMovie.title}</h4>
+          <strong>${money(domesticGross(worstMovie))}</strong>
+          <span>${worstMovie.owner}'s ${points(worstMovie)}-point pick</span>
+        </article>
+        <article class="superlative-card accent-orange">
+          <span class="superlative-icon" aria-hidden="true">⌁</span>
+          <p>Least efficient movie</p>
+          <h4>${leastEfficient.title}</h4>
+          <strong>${money(domesticPerPoint(leastEfficient))}/pt</strong>
+          <span>${money(domesticGross(leastEfficient))} from ${points(leastEfficient)} points</span>
+        </article>
+      </div>
+    </section>
+
+    <section class="stats-story-grid" aria-label="League storylines">
+      <article class="story-card photo-finish">
+        <p class="eyebrow">Photo finish</p>
+        <h3>${ownerPairs.first.name} vs. ${ownerPairs.second.name}</h3>
+        <p>Only <strong>${money(ownerPairs.gap)}</strong> separates the closest pair on the leaderboard.</p>
+        <div class="race-track" aria-label="${ownerPairs.first.name} and ${ownerPairs.second.name} scores">
+          <span style="width:${(ownerPairs.first.total / Math.max(ownerPairs.first.total, ownerPairs.second.total)) * 100}%"><b>${ownerPairs.first.name}</b> ${shortMoney(ownerPairs.first.total)}</span>
+          <span style="width:${(ownerPairs.second.total / Math.max(ownerPairs.first.total, ownerPairs.second.total)) * 100}%"><b>${ownerPairs.second.name}</b> ${shortMoney(ownerPairs.second.total)}</span>
+        </div>
+      </article>
+      <article class="story-card leader-story">
+        <p class="eyebrow">Top of the call sheet</p>
+        <h3>${highestOwner.name} leads the league</h3>
+        <p>With ${money(highestOwner.total)} from ${highestOwner.movies.length} picks, ${highestOwner.name} owns <strong>${((highestOwner.total / totalGross) * 100).toFixed(1)}%</strong> of all auction revenue.</p>
+      </article>
+    </section>
+
+    <section class="top-earners" aria-labelledby="top-earners-title">
+      <div class="section-heading">
+        <p class="eyebrow">Heavy hitters</p>
+        <h3 id="top-earners-title">Top five money makers</h3>
+      </div>
+      <ol class="earner-list">
+        ${topMovies.map((movie, index) => `
+          <li>
+            <span class="earner-rank">${String(index + 1).padStart(2, "0")}</span>
+            <div>
+              <strong>${movie.title}</strong>
+              <span>${movie.owner} · ${points(movie)} points</span>
+            </div>
+            <strong class="earner-gross">${money(domesticGross(movie))}</strong>
+          </li>
+        `).join("")}
+      </ol>
+    </section>
+  `;
+}
+
 function wireTabs() {
   document.querySelectorAll(".tab").forEach((tab) => {
     tab.addEventListener("click", () => {
@@ -647,6 +937,10 @@ function wireTabs() {
       document.querySelectorAll(".view-panel").forEach((panel) => {
         panel.classList.toggle("is-active", panel.id === `${tab.dataset.view}-view`);
       });
+
+      if (tab.dataset.view === "stats") {
+        document.querySelector("#stats-view .stats-deck")?.scrollTo({ top: 0, behavior: "smooth" });
+      }
     });
   });
 }
@@ -665,12 +959,12 @@ async function main() {
   state.data = await loadJson("data/movies.json", { movies: [] });
   state.history = await loadJson("data/history.json", { snapshots: [] });
   state.owners = ownersFromMovies(state.data.movies || []);
-
   renderUpdated();
   renderLeaderboard();
   renderGraphControls();
   renderGraphs();
   renderMovies();
+  renderFunStats();
   wireTabs();
 }
 

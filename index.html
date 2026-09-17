@@ -23,6 +23,7 @@
       <nav class="view-tabs" aria-label="Tracker views">
         <button class="tab is-active" type="button" data-view="leaderboard">Leaderboard</button>
         <button class="tab" type="button" data-view="graph">Graph</button>
+        <button class="tab" type="button" data-view="stats">Fun Stats</button>
         <button class="tab" type="button" data-view="draft">Your Draft</button>
       </nav>
 
@@ -53,6 +54,10 @@
         <div id="line-chart" class="chart-panel" aria-label="Revenue line chart"></div>
         <div id="chart-legend" class="chart-legend" aria-label="Chart legend"></div>
         <div id="stacked-chart" class="chart-panel" aria-label="Movie contribution stacked bar chart"></div>
+      </section>
+
+      <section id="stats-view" class="view-panel stats-view" aria-labelledby="stats-title">
+        <div id="fun-stats"></div>
       </section>
 
       <section id="draft-view" class="view-panel">

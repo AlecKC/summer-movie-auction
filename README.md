@@ -36,7 +36,7 @@ Then open `http://localhost:5173`.
 npm run update:revenues
 ```
 
-The script fetches each `revenueUrl`, finds the domestic total, updates `domesticGross`, calculates `dailyChange`, and stamps `lastUpdated`.
+The script fetches each `revenueUrl` through the inclusive September 7, 2026 cutoff, finds the domestic total, updates `domesticGross`, calculates `dailyChange`, and stamps `lastUpdated`. After that date it does not fetch revenue; it only removes any previously stored values later than the cutoff.
 It also stores each daily value in `movie.history` and records player/movie snapshots in `data/history.json`, which powers the cumulative line graph over the season.
 
 ## Deploy With GitHub Pages
